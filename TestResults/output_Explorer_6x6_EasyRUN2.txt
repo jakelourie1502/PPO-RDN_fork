@@ -1,0 +1,3840 @@
+Logging to /tmp/openai-2022-06-11-22-12-32-086147
+Logging to /tmp/openai-2022-06-11-22-12-32-086147
+0
+hey
+Box(0, 255, (6, 6, 2), uint8)
+0
+/tmp/openai-2022-06-11-22-12-32-086147
+we do the update
+[[248. 132.  35.   1.   0.   0.]
+ [184. 100.  35.   3.   1.   0.]
+ [ 98.  47.  13.   6.   1.   0.]
+ [ 34.  17.   3.   2.   0.   0.]
+ [ 18.   9.   3.   1.   0.   0.]
+ [ 17.   6.   2.   0.   0.   0.]]
+1016.0
+---------------------------------
+| advmean           | 0.639     |
+| advstd            | 0.283     |
+| best_ret          | 0         |
+| epcount           | 91        |
+| eplen             | 10.7      |
+| eprew             | 0         |
+| ev_ext            | -1        |
+| ev_int            | 2.53e-05  |
+| mem_available     | 2.31e+09  |
+| n_rooms           | 0         |
+| n_updates         | 1         |
+| opt_approxkl      | 6.06e-05  |
+| opt_auxloss       | 0.0382    |
+| opt_clipfrac      | 0         |
+| opt_ent           | 1.39      |
+| opt_featvar       | 0.0301    |
+| opt_gradnorm      | 0.729     |
+| opt_maxfeat       | 1.87      |
+| opt_maxkl         | 0.000223  |
+| opt_pg            | -0.521    |
+| opt_tot           | -0.337    |
+| opt_vf            | 0.147     |
+| reset_counter     | 0         |
+| retextmean        | 5.96e-05  |
+| retextstd         | 4.85e-05  |
+| retintmean        | 0.639     |
+| retintstd         | 0.283     |
+| rewintmax_norm    | 0.2       |
+| rewintmax_unnorm  | 0.507     |
+| rewintmean_norm   | 0.0425    |
+| rewintmean_unnorm | 0.108     |
+| rewintstd_unnorm  | 0.117     |
+| rewtotal          | 0         |
+| rooms             | []        |
+| tcount            | 970       |
+| time_elapsed      | 21.1      |
+| tps               | 48.6      |
+| vpredextmean      | 0.000309  |
+| vpredextstd       | 0.000205  |
+| vpredintmean      | -2.92e-05 |
+| vpredintstd       | 0.000159  |
+---------------------------------
+we do the update
+[[489. 265.  68.   1.   0.   0.]
+ [357. 197.  64.   7.   5.   0.]
+ [202. 106.  28.  13.   5.   0.]
+ [ 75.  47.   8.   7.   4.   1.]
+ [ 31.  12.   5.   3.   0.   0.]
+ [ 24.   9.   6.   1.   0.   0.]]
+2040.0
+--------------------------------
+| advmean           | 0.321    |
+| advstd            | 0.159    |
+| best_ret          | 0        |
+| epcount           | 190      |
+| eplen             | 10.3     |
+| eprew             | 0        |
+| ev_ext            | -1       |
+| ev_int            | 0.00235  |
+| mem_available     | 2.21e+09 |
+| n_rooms           | 0        |
+| n_updates         | 2        |
+| opt_approxkl      | 0.00253  |
+| opt_auxloss       | 0.0325   |
+| opt_clipfrac      | 0.25     |
+| opt_ent           | 1.38     |
+| opt_featvar       | 0.0356   |
+| opt_gradnorm      | 0.353    |
+| opt_maxfeat       | 1.66     |
+| opt_maxkl         | 0.00656  |
+| opt_pg            | -0.277   |
+| opt_tot           | -0.229   |
+| opt_vf            | 0.0172   |
+| reset_counter     | 0        |
+| retextmean        | 6.88e-05 |
+| retextstd         | 5.19e-05 |
+| retintmean        | 0.357    |
+| retintstd         | 0.159    |
+| rewintmax_norm    | 0.136    |
+| rewintmax_unnorm  | 0.298    |
+| rewintmean_norm   | 0.0221   |
+| rewintmean_unnorm | 0.0484   |
+| rewintstd_unnorm  | 0.0559   |
+| rewtotal          | 0        |
+| rooms             | []       |
+| tcount            | 2e+03    |
+| time_elapsed      | 26.1     |
+| tps               | 203      |
+| vpredextmean      | 0.000382 |
+| vpredextstd       | 9.3e-05  |
+| vpredintmean      | 0.0353   |
+| vpredintstd       | 0.00386  |
+--------------------------------
+we do the update
+[[686. 378. 105.   1.   0.   0.]
+ [523. 274.  87.   8.   5.   0.]
+ [308. 160.  40.  18.   5.   0.]
+ [137.  75.  15.  13.   4.   1.]
+ [ 64.  25.  13.   8.   1.   0.]
+ [ 65.  25.  11.   6.   2.   1.]]
+3064.0
+---------------------------------
+| advmean           | 0.289     |
+| advstd            | 0.211     |
+| best_ret          | 1         |
+| epcount           | 287       |
+| eplen             | 10        |
+| eprew             | 0.01      |
+| ev_ext            | -8.34e-06 |
+| ev_int            | -0.00176  |
+| mem_available     | 2.21e+09  |
+| n_rooms           | 0         |
+| n_updates         | 3         |
+| opt_approxkl      | 0.00212   |
+| opt_auxloss       | 0.0247    |
+| opt_clipfrac      | 0.176     |
+| opt_ent           | 1.38      |
+| opt_featvar       | 0.0361    |
+| opt_gradnorm      | 1.17      |
+| opt_maxfeat       | 1.64      |
+| opt_maxkl         | 0.00756   |
+| opt_pg            | -0.218    |
+| opt_tot           | -0.181    |
+| opt_vf            | 0.0135    |
+| reset_counter     | 0         |
+| retextmean        | 0.0064    |
+| retextstd         | 0.0599    |
+| retintmean        | 0.545     |
+| retintstd         | 0.165     |
+| rewintmax_norm    | 0.112     |
+| rewintmax_unnorm  | 0.214     |
+| rewintmean_norm   | 0.0221    |
+| rewintmean_unnorm | 0.0422    |
+| rewintstd_unnorm  | 0.0444    |
+| rewtotal          | 1         |
+| rooms             | []        |
+| tcount            | 2.98e+03  |
+| time_elapsed      | 31.1      |
+| tps               | 204       |
+| vpredextmean      | -0.00016  |
+| vpredextstd       | 0.000146  |
+| vpredintmean      | 0.269     |
+| vpredintstd       | 0.0261    |
+---------------------------------
+we do the update
+[[919. 530. 149.   1.   0.   0.]
+ [669. 359. 117.   9.   6.   0.]
+ [400. 207.  46.  22.   5.   0.]
+ [180. 110.  19.  15.   5.   1.]
+ [ 91.  34.  18.   8.   2.   0.]
+ [103.  36.  18.   6.   2.   1.]]
+4088.0
+--------------------------------
+| advmean           | 0.0992   |
+| advstd            | 0.0975   |
+| best_ret          | 1        |
+| epcount           | 404      |
+| eplen             | 8.67     |
+| eprew             | 0        |
+| ev_ext            | -0.567   |
+| ev_int            | -0.358   |
+| mem_available     | 2.21e+09 |
+| n_rooms           | 0        |
+| n_updates         | 4        |
+| opt_approxkl      | 0.00174  |
+| opt_auxloss       | 0.02     |
+| opt_clipfrac      | 0        |
+| opt_ent           | 1.37     |
+| opt_featvar       | 0.0377   |
+| opt_gradnorm      | 0.825    |
+| opt_maxfeat       | 1.66     |
+| opt_maxkl         | 0.00455  |
+| opt_pg            | -0.0993  |
+| opt_tot           | -0.0734  |
+| opt_vf            | 0.00725  |
+| reset_counter     | 0        |
+| retextmean        | 0.00148  |
+| retextstd         | 0.00129  |
+| retintmean        | 0.695    |
+| retintstd         | 0.0826   |
+| rewintmax_norm    | 0.105    |
+| rewintmax_unnorm  | 0.195    |
+| rewintmean_norm   | 0.014    |
+| rewintmean_unnorm | 0.0261   |
+| rewintstd_unnorm  | 0.0291   |
+| rewtotal          | 1        |
+| rooms             | []       |
+| tcount            | 4.03e+03 |
+| time_elapsed      | 36.2     |
+| tps               | 204      |
+| vpredextmean      | 0.00848  |
+| vpredextstd       | 0.00087  |
+| vpredintmean      | 0.582    |
+| vpredintstd       | 0.0563   |
+--------------------------------
+we do the update
+[[1090.  645.  185.    2.    0.    0.]
+ [ 810.  455.  139.   11.    6.    0.]
+ [ 509.  280.   68.   33.    9.    1.]
+ [ 220.  151.   32.   28.    7.    2.]
+ [ 112.   49.   27.   14.    4.    0.]
+ [ 128.   56.   30.    6.    2.    1.]]
+5112.0
+--------------------------------
+| advmean           | 0.106    |
+| advstd            | 0.163    |
+| best_ret          | 1        |
+| epcount           | 519      |
+| eplen             | 8.89     |
+| eprew             | 0        |
+| ev_ext            | -1       |
+| ev_int            | -0.0202  |
+| mem_available     | 2.21e+09 |
+| n_rooms           | 0        |
+| n_updates         | 5        |
+| opt_approxkl      | 0.00402  |
+| opt_auxloss       | 0.031    |
+| opt_clipfrac      | 0.172    |
+| opt_ent           | 1.34     |
+| opt_featvar       | 0.0669   |
+| opt_gradnorm      | 0.948    |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.0138   |
+| opt_pg            | -0.175   |
+| opt_tot           | -0.13    |
+| opt_vf            | 0.0154   |
+| reset_counter     | 0        |
+| retextmean        | 0.000456 |
+| retextstd         | 0.000412 |
+| retintmean        | 0.879    |
+| retintstd         | 0.161    |
+| rewintmax_norm    | 0.0996   |
+| rewintmax_unnorm  | 0.185    |
+| rewintmean_norm   | 0.0159   |
+| rewintmean_unnorm | 0.0295   |
+| rewintstd_unnorm  | 0.0383   |
+| rewtotal          | 1        |
+| rooms             | []       |
+| tcount            | 5.07e+03 |
+| time_elapsed      | 41.2     |
+| tps               | 203      |
+| vpredextmean      | 0.00249  |
+| vpredextstd       | 0.000644 |
+| vpredintmean      | 0.769    |
+| vpredintstd       | 0.0634   |
+--------------------------------
+we do the update
+[[1213.  733.  213.    2.    0.    0.]
+ [ 958.  536.  159.   11.    6.    0.]
+ [ 617.  348.   95.   43.   11.    1.]
+ [ 271.  185.   46.   40.   14.    6.]
+ [ 150.   64.   37.   25.    9.    0.]
+ [ 174.   94.   41.   24.    8.    2.]]
+6136.0
+--------------------------------
+| advmean           | 0.105    |
+| advstd            | 0.175    |
+| best_ret          | 1        |
+| epcount           | 623      |
+| eplen             | 9.84     |
+| eprew             | 0.01     |
+| ev_ext            | 0.00716  |
+| ev_int            | -0.028   |
+| mem_available     | 2.21e+09 |
+| n_rooms           | 0        |
+| n_updates         | 6        |
+| opt_approxkl      | 0.0097   |
+| opt_auxloss       | 0.0178   |
+| opt_clipfrac      | 0.543    |
+| opt_ent           | 1.3      |
+| opt_featvar       | 0.0568   |
+| opt_gradnorm      | 0.134    |
+| opt_maxfeat       | 1.88     |
+| opt_maxkl         | 0.0412   |
+| opt_pg            | -0.0788  |
+| opt_tot           | -0.0548  |
+| opt_vf            | 0.00748  |
+| reset_counter     | 0        |
+| retextmean        | 0.00687  |
+| retextstd         | 0.0599   |
+| retintmean        | 0.957    |
+| retintstd         | 0.12     |
+| rewintmax_norm    | 0.0898   |
+| rewintmax_unnorm  | 0.165    |
+| rewintmean_norm   | 0.015    |
+| rewintmean_unnorm | 0.0276   |
+| rewintstd_unnorm  | 0.0345   |
+| rewtotal          | 2        |
+| rooms             | []       |
+| tcount            | 6.07e+03 |
+| time_elapsed      | 46.2     |
+| tps               | 204      |
+| vpredextmean      | 0.0013   |
+| vpredextstd       | 0.000752 |
+| vpredintmean      | 0.864    |
+| vpredintstd       | 0.0604   |
+--------------------------------
+we do the update
+[[1323.  829.  249.    2.    0.    0.]
+ [1120.  628.  200.   15.    7.    0.]
+ [ 707.  406.  121.   52.   17.    5.]
+ [ 317.  225.   63.   49.   15.    8.]
+ [ 175.   80.   49.   34.   13.    0.]
+ [ 227.  127.   58.   27.    9.    3.]]
+7160.0
+--------------------------------
+| advmean           | 0.00581  |
+| advstd            | 0.16     |
+| best_ret          | 1        |
+| epcount           | 763      |
+| eplen             | 7.52     |
+| eprew             | 0.01     |
+| ev_ext            | 0.00744  |
+| ev_int            | -0.124   |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 7        |
+| opt_approxkl      | 0.00239  |
+| opt_auxloss       | 0.015    |
+| opt_clipfrac      | 0.0938   |
+| opt_ent           | 1.27     |
+| opt_featvar       | 0.058    |
+| opt_gradnorm      | 0.364    |
+| opt_maxfeat       | 1.88     |
+| opt_maxkl         | 0.0119   |
+| opt_pg            | 0.0186   |
+| opt_tot           | 0.0351   |
+| opt_vf            | 0.00283  |
+| reset_counter     | 0        |
+| retextmean        | 0.0075   |
+| retextstd         | 0.0593   |
+| retintmean        | 0.932    |
+| retintstd         | 0.0985   |
+| rewintmax_norm    | 0.0791   |
+| rewintmax_unnorm  | 0.145    |
+| rewintmean_norm   | 0.0107   |
+| rewintmean_unnorm | 0.0196   |
+| rewintstd_unnorm  | 0.0276   |
+| rewtotal          | 3        |
+| rooms             | []       |
+| tcount            | 7.12e+03 |
+| time_elapsed      | 51.3     |
+| tps               | 200      |
+| vpredextmean      | 0.0119   |
+| vpredextstd       | 0.00138  |
+| vpredintmean      | 0.917    |
+| vpredintstd       | 0.061    |
+--------------------------------
+we do the update
+[[1427.  956.  290.    2.    0.    0.]
+ [1234.  717.  235.   15.    8.    0.]
+ [ 800.  488.  155.   62.   22.    7.]
+ [ 361.  273.   85.   62.   21.   11.]
+ [ 205.   94.   66.   47.   22.    0.]
+ [ 250.  146.   78.   31.   10.    4.]]
+8184.0
+--------------------------------
+| advmean           | -0.0058  |
+| advstd            | 0.16     |
+| best_ret          | 1        |
+| epcount           | 921      |
+| eplen             | 6.72     |
+| eprew             | 0.01     |
+| ev_ext            | 0.0125   |
+| ev_int            | 0.0632   |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 8        |
+| opt_approxkl      | 0.00198  |
+| opt_auxloss       | 0.0163   |
+| opt_clipfrac      | 0.145    |
+| opt_ent           | 1.26     |
+| opt_featvar       | 0.0716   |
+| opt_gradnorm      | 0.643    |
+| opt_maxfeat       | 1.88     |
+| opt_maxkl         | 0.0106   |
+| opt_pg            | -0.0822  |
+| opt_tot           | -0.0534  |
+| opt_vf            | 0.0138   |
+| reset_counter     | 0        |
+| retextmean        | 0.00769  |
+| retextstd         | 0.0599   |
+| retintmean        | 0.93     |
+| retintstd         | 0.0926   |
+| rewintmax_norm    | 0.0666   |
+| rewintmax_unnorm  | 0.124    |
+| rewintmean_norm   | 0.00868  |
+| rewintmean_unnorm | 0.0162   |
+| rewintstd_unnorm  | 0.0239   |
+| rewtotal          | 4        |
+| rooms             | []       |
+| tcount            | 8.13e+03 |
+| time_elapsed      | 56.4     |
+| tps               | 203      |
+| vpredextmean      | 0.00844  |
+| vpredextstd       | 0.00146  |
+| vpredintmean      | 0.934    |
+| vpredintstd       | 0.0507   |
+--------------------------------
+we do the update
+[[1540. 1068.  334.    2.    0.    0.]
+ [1383.  823.  284.   17.    8.    0.]
+ [ 878.  564.  187.   78.   26.   10.]
+ [ 395.  312.  104.   78.   29.   16.]
+ [ 223.  104.   83.   59.   30.    0.]
+ [ 265.  150.   88.   42.   20.    8.]]
+9208.0
+--------------------------------
+| advmean           | 0.000741 |
+| advstd            | 0.253    |
+| best_ret          | 1        |
+| epcount           | 1.08e+03 |
+| eplen             | 6.75     |
+| eprew             | 0.04     |
+| ev_ext            | 0.013    |
+| ev_int            | 0.0497   |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 9        |
+| opt_approxkl      | 0.00991  |
+| opt_auxloss       | 0.0115   |
+| opt_clipfrac      | 0.258    |
+| opt_ent           | 1.19     |
+| opt_featvar       | 0.0622   |
+| opt_gradnorm      | 0.383    |
+| opt_maxfeat       | 1.88     |
+| opt_maxkl         | 0.0542   |
+| opt_pg            | -0.0666  |
+| opt_tot           | -0.0393  |
+| opt_vf            | 0.017    |
+| reset_counter     | 0        |
+| retextmean        | 0.0251   |
+| retextstd         | 0.117    |
+| retintmean        | 0.9      |
+| retintstd         | 0.071    |
+| rewintmax_norm    | 0.0667   |
+| rewintmax_unnorm  | 0.126    |
+| rewintmean_norm   | 0.00692  |
+| rewintmean_unnorm | 0.0131   |
+| rewintstd_unnorm  | 0.0221   |
+| rewtotal          | 8        |
+| rooms             | []       |
+| tcount            | 9.17e+03 |
+| time_elapsed      | 61.3     |
+| tps               | 208      |
+| vpredextmean      | 0.00611  |
+| vpredextstd       | 0.00179  |
+| vpredintmean      | 0.938    |
+| vpredintstd       | 0.0421   |
+--------------------------------
+we do the update
+[[1612. 1189.  392.    3.    2.    2.]
+ [1513.  915.  324.   17.    8.    2.]
+ [ 961.  643.  224.   97.   36.   20.]
+ [ 431.  357.  122.   91.   34.   23.]
+ [ 244.  118.   98.   70.   39.    0.]
+ [ 287.  168.  102.   51.   25.   12.]]
+10232.0
+--------------------------------
+| advmean           | -0.0252  |
+| advstd            | 0.245    |
+| best_ret          | 1        |
+| epcount           | 1.26e+03 |
+| eplen             | 5.92     |
+| eprew             | 0.03     |
+| ev_ext            | 0.0233   |
+| ev_int            | 0.0288   |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 10       |
+| opt_approxkl      | 0.00243  |
+| opt_auxloss       | 0.00993  |
+| opt_clipfrac      | 0.168    |
+| opt_ent           | 1.15     |
+| opt_featvar       | 0.073    |
+| opt_gradnorm      | 0.274    |
+| opt_maxfeat       | 1.88     |
+| opt_maxkl         | 0.0156   |
+| opt_pg            | 0.0649   |
+| opt_tot           | 0.0764   |
+| opt_vf            | 0.00276  |
+| reset_counter     | 0        |
+| retextmean        | 0.0275   |
+| retextstd         | 0.117    |
+| retintmean        | 0.868    |
+| retintstd         | 0.0789   |
+| rewintmax_norm    | 0.0974   |
+| rewintmax_unnorm  | 0.188    |
+| rewintmean_norm   | 0.00608  |
+| rewintmean_unnorm | 0.0117   |
+| rewintstd_unnorm  | 0.0213   |
+| rewtotal          | 12       |
+| rooms             | []       |
+| tcount            | 1.02e+04 |
+| time_elapsed      | 66.3     |
+| tps               | 207      |
+| vpredextmean      | 0.0209   |
+| vpredextstd       | 0.00317  |
+| vpredintmean      | 0.906    |
+| vpredintstd       | 0.041    |
+--------------------------------
+we do the update
+[[1685. 1285.  431.    3.    2.    2.]
+ [1659. 1025.  364.   17.    9.    2.]
+ [1033.  725.  263.  115.   46.   26.]
+ [ 460.  409.  144.  112.   46.   34.]
+ [ 265.  128.  110.   83.   48.    0.]
+ [ 318.  187.  119.   55.   30.   16.]]
+11256.0
+--------------------------------
+| advmean           | -0.0615  |
+| advstd            | 0.238    |
+| best_ret          | 1        |
+| epcount           | 1.43e+03 |
+| eplen             | 5.43     |
+| eprew             | 0.01     |
+| ev_ext            | 0.0291   |
+| ev_int            | -0.0727  |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 11       |
+| opt_approxkl      | 0.00439  |
+| opt_auxloss       | 0.00702  |
+| opt_clipfrac      | 0.438    |
+| opt_ent           | 1.13     |
+| opt_featvar       | 0.0662   |
+| opt_gradnorm      | 0.228    |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.0133   |
+| opt_pg            | 0.0492   |
+| opt_tot           | 0.0635   |
+| opt_vf            | 0.00834  |
+| reset_counter     | 0        |
+| retextmean        | 0.027    |
+| retextstd         | 0.117    |
+| retintmean        | 0.805    |
+| retintstd         | 0.0537   |
+| rewintmax_norm    | 0.041    |
+| rewintmax_unnorm  | 0.0796   |
+| rewintmean_norm   | 0.00431  |
+| rewintmean_unnorm | 0.00837  |
+| rewintstd_unnorm  | 0.0152   |
+| rewtotal          | 16       |
+| rooms             | []       |
+| tcount            | 1.12e+04 |
+| time_elapsed      | 71.3     |
+| tps               | 202      |
+| vpredextmean      | 0.0256   |
+| vpredextstd       | 0.00445  |
+| vpredintmean      | 0.869    |
+| vpredintstd       | 0.0405   |
+--------------------------------
+we do the update
+[[1749. 1395.  481.    3.    2.    2.]
+ [1790. 1125.  417.   19.    9.    2.]
+ [1115.  792.  295.  131.   55.   38.]
+ [ 501.  456.  158.  124.   55.   40.]
+ [ 286.  145.  122.   94.   59.    0.]
+ [ 342.  218.  132.   68.   38.   22.]]
+12280.0
+--------------------------------
+| advmean           | -0.0518  |
+| advstd            | 0.271    |
+| best_ret          | 1        |
+| epcount           | 1.62e+03 |
+| eplen             | 5.34     |
+| eprew             | 0.02     |
+| ev_ext            | 0.0472   |
+| ev_int            | -0.162   |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 12       |
+| opt_approxkl      | 0.00377  |
+| opt_auxloss       | 0.00698  |
+| opt_clipfrac      | 0.152    |
+| opt_ent           | 1.08     |
+| opt_featvar       | 0.0651   |
+| opt_gradnorm      | 0.364    |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.0884   |
+| opt_pg            | -0.0217  |
+| opt_tot           | 0.00363  |
+| opt_vf            | 0.0194   |
+| reset_counter     | 0        |
+| retextmean        | 0.0379   |
+| retextstd         | 0.142    |
+| retintmean        | 0.75     |
+| retintstd         | 0.0491   |
+| rewintmax_norm    | 0.0607   |
+| rewintmax_unnorm  | 0.119    |
+| rewintmean_norm   | 0.00361  |
+| rewintmean_unnorm | 0.0071   |
+| rewintstd_unnorm  | 0.0136   |
+| rewtotal          | 22       |
+| rooms             | []       |
+| tcount            | 1.22e+04 |
+| time_elapsed      | 76.4     |
+| tps               | 204      |
+| vpredextmean      | 0.0302   |
+| vpredextstd       | 0.0061   |
+| vpredintmean      | 0.818    |
+| vpredintstd       | 0.0382   |
+--------------------------------
+we do the update
+[[1793. 1511.  534.    3.    2.    2.]
+ [1916. 1232.  461.   20.   10.    2.]
+ [1184.  880.  342.  153.   65.   44.]
+ [ 527.  506.  184.  148.   67.   49.]
+ [ 299.  151.  128.  112.   72.    0.]
+ [ 362.  238.  143.   86.   48.   30.]]
+13304.0
+--------------------------------
+| advmean           | -0.0602  |
+| advstd            | 0.287    |
+| best_ret          | 1        |
+| epcount           | 1.81e+03 |
+| eplen             | 5.32     |
+| eprew             | 0.05     |
+| ev_ext            | 0.0755   |
+| ev_int            | -0.715   |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 13       |
+| opt_approxkl      | 0.00181  |
+| opt_auxloss       | 0.00372  |
+| opt_clipfrac      | 0.129    |
+| opt_ent           | 1.04     |
+| opt_featvar       | 0.0699   |
+| opt_gradnorm      | 0.344    |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.0301   |
+| opt_pg            | -0.00178 |
+| opt_tot           | 0.0201   |
+| opt_vf            | 0.0192   |
+| reset_counter     | 0        |
+| retextmean        | 0.0481   |
+| retextstd         | 0.156    |
+| retintmean        | 0.681    |
+| retintstd         | 0.0393   |
+| rewintmax_norm    | 0.0561   |
+| rewintmax_unnorm  | 0.111    |
+| rewintmean_norm   | 0.00278  |
+| rewintmean_unnorm | 0.0055   |
+| rewintstd_unnorm  | 0.0107   |
+| rewtotal          | 30       |
+| rooms             | []       |
+| tcount            | 1.33e+04 |
+| time_elapsed      | 81.7     |
+| tps               | 193      |
+| vpredextmean      | 0.0449   |
+| vpredextstd       | 0.01     |
+| vpredintmean      | 0.748    |
+| vpredintstd       | 0.0443   |
+--------------------------------
+we do the update
+[[1830. 1634.  599.    3.    2.    2.]
+ [2053. 1341.  507.   20.   11.    3.]
+ [1252.  973.  376.  171.   78.   62.]
+ [ 554.  577.  200.  164.   80.   58.]
+ [ 309.  156.  141.  122.   88.    0.]
+ [ 380.  255.  157.   90.   49.   31.]]
+14328.0
+--------------------------------
+| advmean           | -0.158   |
+| advstd            | 0.118    |
+| best_ret          | 1        |
+| epcount           | 2.03e+03 |
+| eplen             | 4.35     |
+| eprew             | 0        |
+| ev_ext            | 0.126    |
+| ev_int            | -0.198   |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 14       |
+| opt_approxkl      | 0.0185   |
+| opt_auxloss       | 0.00319  |
+| opt_clipfrac      | 0.551    |
+| opt_ent           | 1.19     |
+| opt_featvar       | 0.0741   |
+| opt_gradnorm      | 0.556    |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.234    |
+| opt_pg            | 0.161    |
+| opt_tot           | 0.164    |
+| opt_vf            | 0.00157  |
+| reset_counter     | 0        |
+| retextmean        | 0.0119   |
+| retextstd         | 0.0606   |
+| retintmean        | 0.578    |
+| retintstd         | 0.0336   |
+| rewintmax_norm    | 0.0443   |
+| rewintmax_unnorm  | 0.0885   |
+| rewintmean_norm   | 0.00182  |
+| rewintmean_unnorm | 0.00363  |
+| rewintstd_unnorm  | 0.00848  |
+| rewtotal          | 30       |
+| rooms             | []       |
+| tcount            | 1.43e+04 |
+| time_elapsed      | 86.9     |
+| tps               | 197      |
+| vpredextmean      | 0.0555   |
+| vpredextstd       | 0.0114   |
+| vpredintmean      | 0.649    |
+| vpredintstd       | 0.0289   |
+--------------------------------
+we do the update
+[[1927. 1765.  653.    3.    2.    2.]
+ [2189. 1442.  544.   21.   13.    5.]
+ [1320. 1054.  414.  192.   93.   76.]
+ [ 585.  632.  217.  175.   88.   62.]
+ [ 318.  159.  153.  133.   99.    0.]
+ [ 394.  270.  170.   95.   54.   33.]]
+15352.0
+--------------------------------
+| advmean           | -0.0376  |
+| advstd            | 0.157    |
+| best_ret          | 1        |
+| epcount           | 2.21e+03 |
+| eplen             | 5.98     |
+| eprew             | 0        |
+| ev_ext            | 0.0977   |
+| ev_int            | -0.461   |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 15       |
+| opt_approxkl      | 0.00164  |
+| opt_auxloss       | 0.00192  |
+| opt_clipfrac      | 0.109    |
+| opt_ent           | 1.22     |
+| opt_featvar       | 0.0645   |
+| opt_gradnorm      | 0.246    |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.013    |
+| opt_pg            | 0.0591   |
+| opt_tot           | 0.0609   |
+| opt_vf            | 0.0011   |
+| reset_counter     | 0        |
+| retextmean        | 0.0136   |
+| retextstd         | 0.0846   |
+| retintmean        | 0.496    |
+| retintstd         | 0.0299   |
+| rewintmax_norm    | 0.0525   |
+| rewintmax_unnorm  | 0.105    |
+| rewintmean_norm   | 0.00139  |
+| rewintmean_unnorm | 0.00279  |
+| rewintstd_unnorm  | 0.00762  |
+| rewtotal          | 33       |
+| rooms             | []       |
+| tcount            | 1.53e+04 |
+| time_elapsed      | 92       |
+| tps               | 197      |
+| vpredextmean      | 0.00365  |
+| vpredextstd       | 0.0112   |
+| vpredintmean      | 0.553    |
+| vpredintstd       | 0.0271   |
+--------------------------------
+we do the update
+[[2015. 1898.  703.    3.    2.    2.]
+ [2313. 1548.  591.   22.   13.    5.]
+ [1383. 1127.  459.  215.  101.   80.]
+ [ 617.  676.  241.  195.   99.   69.]
+ [ 328.  169.  177.  148.  112.    0.]
+ [ 404.  277.  179.  104.   66.   35.]]
+16376.0
+--------------------------------
+| advmean           | -0.0636  |
+| advstd            | 0.155    |
+| best_ret          | 1        |
+| epcount           | 2.38e+03 |
+| eplen             | 6.3      |
+| eprew             | 0.01     |
+| ev_ext            | 0.105    |
+| ev_int            | -0.399   |
+| mem_available     | 2.19e+09 |
+| n_rooms           | 0        |
+| n_updates         | 16       |
+| opt_approxkl      | 0.00173  |
+| opt_auxloss       | 0.000912 |
+| opt_clipfrac      | 0.0625   |
+| opt_ent           | 1.19     |
+| opt_featvar       | 0.0669   |
+| opt_gradnorm      | 0.122    |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.0169   |
+| opt_pg            | 0.0857   |
+| opt_tot           | 0.0859   |
+| opt_vf            | 0.000541 |
+| reset_counter     | 0        |
+| retextmean        | 0.0139   |
+| retextstd         | 0.0831   |
+| retintmean        | 0.42     |
+| retintstd         | 0.0273   |
+| rewintmax_norm    | 0.0512   |
+| rewintmax_unnorm  | 0.103    |
+| rewintmean_norm   | 0.00112  |
+| rewintmean_unnorm | 0.00224  |
+| rewintstd_unnorm  | 0.00602  |
+| rewtotal          | 35       |
+| rooms             | []       |
+| tcount            | 1.63e+04 |
+| time_elapsed      | 97.2     |
+| tps               | 199      |
+| vpredextmean      | 0.0184   |
+| vpredextstd       | 0.0153   |
+| vpredintmean      | 0.475    |
+| vpredintstd       | 0.0301   |
+--------------------------------
+we do the update
+[[2105. 2031.  767.    3.    3.    4.]
+ [2445. 1651.  632.   22.   15.    7.]
+ [1450. 1210.  499.  239.  112.  100.]
+ [ 647.  725.  255.  213.  107.   76.]
+ [ 336.  175.  184.  160.  119.    0.]
+ [ 408.  284.  185.  116.   74.   41.]]
+17400.0
+--------------------------------
+| advmean           | 0.00689  |
+| advstd            | 0.252    |
+| best_ret          | 1        |
+| epcount           | 2.56e+03 |
+| eplen             | 5.54     |
+| eprew             | 0.04     |
+| ev_ext            | 0.153    |
+| ev_int            | -0.617   |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 17       |
+| opt_approxkl      | 0.0027   |
+| opt_auxloss       | 0.00119  |
+| opt_clipfrac      | 0.203    |
+| opt_ent           | 1.15     |
+| opt_featvar       | 0.0523   |
+| opt_gradnorm      | 0.184    |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.0273   |
+| opt_pg            | 0.022    |
+| opt_tot           | 0.0282   |
+| opt_vf            | 0.00615  |
+| reset_counter     | 0        |
+| retextmean        | 0.0383   |
+| retextstd         | 0.143    |
+| retintmean        | 0.354    |
+| retintstd         | 0.0265   |
+| rewintmax_norm    | 0.0556   |
+| rewintmax_unnorm  | 0.112    |
+| rewintmean_norm   | 0.00104  |
+| rewintmean_unnorm | 0.00209  |
+| rewintstd_unnorm  | 0.00734  |
+| rewtotal          | 41       |
+| rooms             | []       |
+| tcount            | 1.74e+04 |
+| time_elapsed      | 102      |
+| tps               | 197      |
+| vpredextmean      | 0.0131   |
+| vpredextstd       | 0.017    |
+| vpredintmean      | 0.398    |
+| vpredintstd       | 0.0264   |
+--------------------------------
+we do the update
+[[2181. 2168.  823.    3.    3.    4.]
+ [2578. 1758.  682.   23.   16.    7.]
+ [1520. 1291.  531.  256.  119.  109.]
+ [ 679.  776.  268.  225.  114.   86.]
+ [ 347.  180.  196.  171.  125.    0.]
+ [ 423.  304.  198.  130.   84.   46.]]
+18424.0
+--------------------------------
+| advmean           | -0.077   |
+| advstd            | 0.217    |
+| best_ret          | 1        |
+| epcount           | 2.75e+03 |
+| eplen             | 5.39     |
+| eprew             | 0.02     |
+| ev_ext            | 0.265    |
+| ev_int            | -1       |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 18       |
+| opt_approxkl      | 0.00248  |
+| opt_auxloss       | 0.00167  |
+| opt_clipfrac      | 0.0352   |
+| opt_ent           | 1.14     |
+| opt_featvar       | 0.0661   |
+| opt_gradnorm      | 0.196    |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.00796  |
+| opt_pg            | 0.0441   |
+| opt_tot           | 0.0543   |
+| opt_vf            | 0.00965  |
+| reset_counter     | 0        |
+| retextmean        | 0.0375   |
+| retextstd         | 0.133    |
+| retintmean        | 0.3      |
+| retintstd         | 0.0192   |
+| rewintmax_norm    | 0.0491   |
+| rewintmax_unnorm  | 0.0988   |
+| rewintmean_norm   | 0.000672 |
+| rewintmean_unnorm | 0.00135  |
+| rewintstd_unnorm  | 0.00467  |
+| rewtotal          | 46       |
+| rooms             | []       |
+| tcount            | 1.84e+04 |
+| time_elapsed      | 107      |
+| tps               | 204      |
+| vpredextmean      | 0.0563   |
+| vpredextstd       | 0.0268   |
+| vpredintmean      | 0.34     |
+| vpredintstd       | 0.026    |
+--------------------------------
+we do the update
+[[2252. 2275.  869.    4.    4.    6.]
+ [2701. 1839.  713.   23.   16.    9.]
+ [1596. 1376.  576.  277.  133.  126.]
+ [ 714.  822.  287.  240.  127.   97.]
+ [ 366.  197.  215.  184.  134.    0.]
+ [ 432.  324.  216.  147.   99.   52.]]
+19448.0
+--------------------------------
+| advmean           | -0.0273  |
+| advstd            | 0.234    |
+| best_ret          | 1        |
+| epcount           | 2.92e+03 |
+| eplen             | 6.14     |
+| eprew             | 0.05     |
+| ev_ext            | 0.312    |
+| ev_int            | -0.45    |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 19       |
+| opt_approxkl      | 0.00115  |
+| opt_auxloss       | 0.00118  |
+| opt_clipfrac      | 0.0352   |
+| opt_ent           | 1.11     |
+| opt_featvar       | 0.0639   |
+| opt_gradnorm      | 0.0877   |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.0509   |
+| opt_pg            | 0.0543   |
+| opt_tot           | 0.0581   |
+| opt_vf            | 0.00369  |
+| reset_counter     | 0        |
+| retextmean        | 0.044    |
+| retextstd         | 0.145    |
+| retintmean        | 0.261    |
+| retintstd         | 0.0255   |
+| rewintmax_norm    | 0.0495   |
+| rewintmax_unnorm  | 0.0992   |
+| rewintmean_norm   | 0.000932 |
+| rewintmean_unnorm | 0.00187  |
+| rewintstd_unnorm  | 0.00622  |
+| rewtotal          | 52       |
+| rooms             | []       |
+| tcount            | 1.94e+04 |
+| time_elapsed      | 112      |
+| tps               | 202      |
+| vpredextmean      | 0.0437   |
+| vpredextstd       | 0.041    |
+| vpredintmean      | 0.289    |
+| vpredintstd       | 0.0264   |
+--------------------------------
+we do the update
+[[2310. 2376.  902.    5.    4.    6.]
+ [2836. 1966.  766.   25.   16.    9.]
+ [1658. 1464.  617.  292.  135.  129.]
+ [ 749.  872.  308.  260.  136.  101.]
+ [ 382.  203.  228.  199.  143.    0.]
+ [ 451.  349.  234.  164.  116.   61.]]
+20472.0
+---------------------------------
+| advmean           | -0.000567 |
+| advstd            | 0.27      |
+| best_ret          | 1         |
+| epcount           | 3.1e+03   |
+| eplen             | 6.04      |
+| eprew             | 0.07      |
+| ev_ext            | 0.39      |
+| ev_int            | -0.788    |
+| mem_available     | 2.2e+09   |
+| n_rooms           | 0         |
+| n_updates         | 20        |
+| opt_approxkl      | 0.00234   |
+| opt_auxloss       | 0.000514  |
+| opt_clipfrac      | 0.043     |
+| opt_ent           | 1.1       |
+| opt_featvar       | 0.0601    |
+| opt_gradnorm      | 0.214     |
+| opt_maxfeat       | 1.87      |
+| opt_maxkl         | 0.0794    |
+| opt_pg            | 0.00944   |
+| opt_tot           | 0.0171    |
+| opt_vf            | 0.00826   |
+| reset_counter     | 0         |
+| retextmean        | 0.0619    |
+| retextstd         | 0.177     |
+| retintmean        | 0.224     |
+| retintstd         | 0.0159    |
+| rewintmax_norm    | 0.048     |
+| rewintmax_unnorm  | 0.0957    |
+| rewintmean_norm   | 0.000559  |
+| rewintmean_unnorm | 0.00111   |
+| rewintstd_unnorm  | 0.00492   |
+| rewtotal          | 60        |
+| rooms             | []        |
+| tcount            | 2.04e+04  |
+| time_elapsed      | 118       |
+| tps               | 199       |
+| vpredextmean      | 0.0476    |
+| vpredextstd       | 0.0565    |
+| vpredintmean      | 0.253     |
+| vpredintstd       | 0.021     |
+---------------------------------
+we do the update
+[[2364. 2456.  929.    5.    4.    6.]
+ [2969. 2054.  792.   26.   18.    9.]
+ [1749. 1550.  655.  316.  145.  136.]
+ [ 797.  924.  324.  282.  149.  109.]
+ [ 405.  216.  241.  218.  156.    0.]
+ [ 472.  377.  250.  186.  134.   73.]]
+21496.0
+--------------------------------
+| advmean           | 0.000377 |
+| advstd            | 0.28     |
+| best_ret          | 1        |
+| epcount           | 3.26e+03 |
+| eplen             | 6.16     |
+| eprew             | 0.06     |
+| ev_ext            | 0.508    |
+| ev_int            | -1       |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 21       |
+| opt_approxkl      | 0.00505  |
+| opt_auxloss       | 0.000646 |
+| opt_clipfrac      | 0.27     |
+| opt_ent           | 1.06     |
+| opt_featvar       | 0.0783   |
+| opt_gradnorm      | 0.222    |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.132    |
+| opt_pg            | 0.0356   |
+| opt_tot           | 0.0436   |
+| opt_vf            | 0.00844  |
+| reset_counter     | 0        |
+| retextmean        | 0.0831   |
+| retextstd         | 0.203    |
+| retintmean        | 0.187    |
+| retintstd         | 0.00999  |
+| rewintmax_norm    | 0.0458   |
+| rewintmax_unnorm  | 0.0908   |
+| rewintmean_norm   | 0.000506 |
+| rewintmean_unnorm | 0.001    |
+| rewintstd_unnorm  | 0.00356  |
+| rewtotal          | 72       |
+| rooms             | []       |
+| tcount            | 2.15e+04 |
+| time_elapsed      | 123      |
+| tps               | 205      |
+| vpredextmean      | 0.0708   |
+| vpredextstd       | 0.0903   |
+| vpredintmean      | 0.211    |
+| vpredintstd       | 0.0189   |
+--------------------------------
+we do the update
+[[2414. 2553.  964.    5.    4.    6.]
+ [3091. 2136.  824.   27.   19.    9.]
+ [1835. 1625.  692.  331.  161.  144.]
+ [ 840.  973.  346.  298.  162.  115.]
+ [ 434.  235.  258.  236.  167.    0.]
+ [ 499.  410.  271.  202.  149.   85.]]
+22520.0
+--------------------------------
+| advmean           | -0.00161 |
+| advstd            | 0.278    |
+| best_ret          | 1        |
+| epcount           | 3.42e+03 |
+| eplen             | 5.64     |
+| eprew             | 0.07     |
+| ev_ext            | 0.556    |
+| ev_int            | -1       |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 22       |
+| opt_approxkl      | 0.00752  |
+| opt_auxloss       | 0.000931 |
+| opt_clipfrac      | 0.578    |
+| opt_ent           | 1.03     |
+| opt_featvar       | 0.0779   |
+| opt_gradnorm      | 0.118    |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.0404   |
+| opt_pg            | -0.0181  |
+| opt_tot           | -0.00774 |
+| opt_vf            | 0.0105   |
+| reset_counter     | 0        |
+| retextmean        | 0.0879   |
+| retextstd         | 0.209    |
+| retintmean        | 0.158    |
+| retintstd         | 0.0111   |
+| rewintmax_norm    | 0.044    |
+| rewintmax_unnorm  | 0.0866   |
+| rewintmean_norm   | 0.000415 |
+| rewintmean_unnorm | 0.000817 |
+| rewintstd_unnorm  | 0.00319  |
+| rewtotal          | 85       |
+| rooms             | []       |
+| tcount            | 2.25e+04 |
+| time_elapsed      | 128      |
+| tps               | 196      |
+| vpredextmean      | 0.079    |
+| vpredextstd       | 0.126    |
+| vpredintmean      | 0.177    |
+| vpredintstd       | 0.015    |
+--------------------------------
+we do the update
+[[2455. 2604.  973.    6.    4.    6.]
+ [3213. 2221.  847.   28.   20.    9.]
+ [1906. 1702.  746.  354.  167.  144.]
+ [ 876. 1010.  377.  330.  171.  118.]
+ [ 460.  253.  282.  280.  182.    0.]
+ [ 520.  437.  282.  255.  188.  118.]]
+23544.0
+--------------------------------
+| advmean           | 0.108    |
+| advstd            | 0.375    |
+| best_ret          | 1        |
+| epcount           | 3.55e+03 |
+| eplen             | 7.79     |
+| eprew             | 0.26     |
+| ev_ext            | 0.619    |
+| ev_int            | -1       |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 23       |
+| opt_approxkl      | 0.0123   |
+| opt_auxloss       | 0.00029  |
+| opt_clipfrac      | 0.523    |
+| opt_ent           | 0.953    |
+| opt_featvar       | 0.085    |
+| opt_gradnorm      | 0.218    |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.317    |
+| opt_pg            | -0.0621  |
+| opt_tot           | -0.049   |
+| opt_vf            | 0.0138   |
+| reset_counter     | 0        |
+| retextmean        | 0.222    |
+| retextstd         | 0.302    |
+| retintmean        | 0.139    |
+| retintstd         | 0.00899  |
+| rewintmax_norm    | 0.0428   |
+| rewintmax_unnorm  | 0.0835   |
+| rewintmean_norm   | 0.000385 |
+| rewintmean_unnorm | 0.000752 |
+| rewintstd_unnorm  | 0.00298  |
+| rewtotal          | 117      |
+| rooms             | []       |
+| tcount            | 2.35e+04 |
+| time_elapsed      | 133      |
+| tps               | 203      |
+| vpredextmean      | 0.16     |
+| vpredextstd       | 0.245    |
+| vpredintmean      | 0.156    |
+| vpredintstd       | 0.0157   |
+--------------------------------
+we do the update
+[[2498. 2653.  980.    6.    4.    7.]
+ [3320. 2281.  858.   28.   20.   11.]
+ [1976. 1779.  798.  380.  172.  148.]
+ [ 913. 1046.  406.  365.  178.  122.]
+ [ 488.  268.  303.  324.  187.    0.]
+ [ 578.  475.  294.  308.  239.  155.]]
+24568.0
+--------------------------------
+| advmean           | 0.12     |
+| advstd            | 0.351    |
+| best_ret          | 1        |
+| epcount           | 3.67e+03 |
+| eplen             | 8.83     |
+| eprew             | 0.32     |
+| ev_ext            | 0.686    |
+| ev_int            | -1       |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 24       |
+| opt_approxkl      | 0.0166   |
+| opt_auxloss       | 0.000265 |
+| opt_clipfrac      | 0.402    |
+| opt_ent           | 0.872    |
+| opt_featvar       | 0.0868   |
+| opt_gradnorm      | 0.277    |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.501    |
+| opt_pg            | -0.15    |
+| opt_tot           | -0.134   |
+| opt_vf            | 0.0161   |
+| reset_counter     | 0        |
+| retextmean        | 0.262    |
+| retextstd         | 0.316    |
+| retintmean        | 0.108    |
+| retintstd         | 0.00922  |
+| rewintmax_norm    | 0.0326   |
+| rewintmax_unnorm  | 0.0631   |
+| rewintmean_norm   | 0.000382 |
+| rewintmean_unnorm | 0.000741 |
+| rewintstd_unnorm  | 0.00346  |
+| rewtotal          | 155      |
+| rooms             | []       |
+| tcount            | 2.45e+04 |
+| time_elapsed      | 138      |
+| tps               | 201      |
+| vpredextmean      | 0.195    |
+| vpredextstd       | 0.245    |
+| vpredintmean      | 0.121    |
+| vpredintstd       | 0.0118   |
+--------------------------------
+we do the update
+[[2550. 2691.  987.    6.    4.    7.]
+ [3435. 2334.  864.   28.   20.   11.]
+ [2059. 1854.  855.  406.  179.  153.]
+ [ 943. 1065.  437.  395.  187.  125.]
+ [ 514.  282.  334.  378.  197.    0.]
+ [ 622.  500.  303.  370.  290.  207.]]
+25592.0
+--------------------------------
+| advmean           | 0.12     |
+| advstd            | 0.373    |
+| best_ret          | 1        |
+| epcount           | 3.77e+03 |
+| eplen             | 9.89     |
+| eprew             | 0.48     |
+| ev_ext            | 0.671    |
+| ev_int            | -1       |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 25       |
+| opt_approxkl      | 0.0176   |
+| opt_auxloss       | 0.000179 |
+| opt_clipfrac      | 0.32     |
+| opt_ent           | 0.832    |
+| opt_featvar       | 0.0834   |
+| opt_gradnorm      | 0.222    |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.439    |
+| opt_pg            | -0.0947  |
+| opt_tot           | -0.0808  |
+| opt_vf            | 0.0145   |
+| reset_counter     | 0        |
+| retextmean        | 0.332    |
+| retextstd         | 0.325    |
+| retintmean        | 0.0877   |
+| retintstd         | 0.00423  |
+| rewintmax_norm    | 0.00335  |
+| rewintmax_unnorm  | 0.00643  |
+| rewintmean_norm   | 0.000149 |
+| rewintmean_unnorm | 0.000286 |
+| rewintstd_unnorm  | 0.000661 |
+| rewtotal          | 207      |
+| rooms             | []       |
+| tcount            | 2.56e+04 |
+| time_elapsed      | 143      |
+| tps               | 190      |
+| vpredextmean      | 0.266    |
+| vpredextstd       | 0.266    |
+| vpredintmean      | 0.101    |
+| vpredintstd       | 0.0122   |
+--------------------------------
+we do the update
+[[2589. 2732.  992.    6.    4.    7.]
+ [3531. 2388.  867.   28.   20.   11.]
+ [2126. 1938.  930.  436.  180.  153.]
+ [ 966. 1078.  480.  446.  190.  126.]
+ [ 530.  295.  365.  451.  201.    0.]
+ [ 642.  515.  307.  446.  362.  278.]]
+26616.0
+--------------------------------
+| advmean           | 0.218    |
+| advstd            | 0.315    |
+| best_ret          | 1        |
+| epcount           | 3.87e+03 |
+| eplen             | 10.2     |
+| eprew             | 0.7      |
+| ev_ext            | 0.733    |
+| ev_int            | -1       |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 26       |
+| opt_approxkl      | 0.0211   |
+| opt_auxloss       | 6.98e-05 |
+| opt_clipfrac      | 0.223    |
+| opt_ent           | 0.645    |
+| opt_featvar       | 0.0912   |
+| opt_gradnorm      | 0.164    |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.497    |
+| opt_pg            | -0.169   |
+| opt_tot           | -0.157   |
+| opt_vf            | 0.0125   |
+| reset_counter     | 0        |
+| retextmean        | 0.468    |
+| retextstd         | 0.306    |
+| retintmean        | 0.0676   |
+| retintstd         | 0.00386  |
+| rewintmax_norm    | 0.001    |
+| rewintmax_unnorm  | 0.00191  |
+| rewintmean_norm   | 5.31e-05 |
+| rewintmean_unnorm | 0.000101 |
+| rewintstd_unnorm  | 0.00024  |
+| rewtotal          | 277      |
+| rooms             | []       |
+| tcount            | 2.65e+04 |
+| time_elapsed      | 148      |
+| tps               | 201      |
+| vpredextmean      | 0.354    |
+| vpredextstd       | 0.286    |
+| vpredintmean      | 0.0776   |
+| vpredintstd       | 0.00945  |
+--------------------------------
+we do the update
+[[2629. 2775.  998.    6.    4.    7.]
+ [3626. 2439.  872.   28.   20.   11.]
+ [2192. 2019. 1010.  471.  181.  153.]
+ [ 990. 1082.  520.  494.  191.  127.]
+ [ 542.  305.  400.  536.  201.    0.]
+ [ 646.  519.  309.  533.  444.  360.]]
+27640.0
+--------------------------------
+| advmean           | 0.176    |
+| advstd            | 0.245    |
+| best_ret          | 1        |
+| epcount           | 3.98e+03 |
+| eplen             | 10.3     |
+| eprew             | 0.82     |
+| ev_ext            | 0.803    |
+| ev_int            | -1       |
+| mem_available     | 2.22e+09 |
+| n_rooms           | 0        |
+| n_updates         | 27       |
+| opt_approxkl      | 0.0107   |
+| opt_auxloss       | 2.3e-05  |
+| opt_clipfrac      | 0.164    |
+| opt_ent           | 0.463    |
+| opt_featvar       | 0.0956   |
+| opt_gradnorm      | 0.324    |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.203    |
+| opt_pg            | -0.203   |
+| opt_tot           | -0.194   |
+| opt_vf            | 0.00867  |
+| reset_counter     | 0        |
+| retextmean        | 0.535    |
+| retextstd         | 0.277    |
+| retintmean        | 0.0496   |
+| retintstd         | 0.0031   |
+| rewintmax_norm    | 0.00103  |
+| rewintmax_unnorm  | 0.00195  |
+| rewintmean_norm   | 1.95e-05 |
+| rewintmean_unnorm | 3.7e-05  |
+| rewintstd_unnorm  | 0.000125 |
+| rewtotal          | 360      |
+| rooms             | []       |
+| tcount            | 2.76e+04 |
+| time_elapsed      | 154      |
+| tps               | 195      |
+| vpredextmean      | 0.443    |
+| vpredextstd       | 0.263    |
+| vpredintmean      | 0.0579   |
+| vpredintstd       | 0.0094   |
+--------------------------------
+we do the update
+[[2646. 2822.  999.    6.    4.    7.]
+ [3702. 2494.  877.   28.   20.   11.]
+ [2252. 2096. 1086.  506.  181.  153.]
+ [1014. 1088.  560.  551.  191.  127.]
+ [ 564.  323.  434.  624.  201.    0.]
+ [ 652.  531.  310.  622.  533.  449.]]
+28664.0
+--------------------------------
+| advmean           | 0.125    |
+| advstd            | 0.213    |
+| best_ret          | 1        |
+| epcount           | 4.08e+03 |
+| eplen             | 10.1     |
+| eprew             | 0.87     |
+| ev_ext            | 0.821    |
+| ev_int            | -1       |
+| mem_available     | 2.21e+09 |
+| n_rooms           | 0        |
+| n_updates         | 28       |
+| opt_approxkl      | 0.0185   |
+| opt_auxloss       | 4.04e-05 |
+| opt_clipfrac      | 0.359    |
+| opt_ent           | 0.434    |
+| opt_featvar       | 0.0958   |
+| opt_gradnorm      | 0.238    |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.559    |
+| opt_pg            | -0.131   |
+| opt_tot           | -0.125   |
+| opt_vf            | 0.00676  |
+| reset_counter     | 0        |
+| retextmean        | 0.575    |
+| retextstd         | 0.253    |
+| retintmean        | 0.035    |
+| retintstd         | 0.00302  |
+| rewintmax_norm    | 0.000327 |
+| rewintmax_unnorm  | 0.000614 |
+| rewintmean_norm   | 1.53e-05 |
+| rewintmean_unnorm | 2.87e-05 |
+| rewintstd_unnorm  | 0.000103 |
+| rewtotal          | 448      |
+| rooms             | []       |
+| tcount            | 2.86e+04 |
+| time_elapsed      | 159      |
+| tps               | 195      |
+| vpredextmean      | 0.51     |
+| vpredextstd       | 0.248    |
+| vpredintmean      | 0.0417   |
+| vpredintstd       | 0.0117   |
+--------------------------------
+we do the update
+[[2661. 2861.  999.    6.    4.    7.]
+ [3772. 2543.  879.   28.   20.   11.]
+ [2308. 2179. 1167.  544.  181.  153.]
+ [1034. 1089.  602.  603.  191.  127.]
+ [ 582.  340.  478.  722.  201.    0.]
+ [ 655.  533.  310.  721.  631.  546.]]
+29688.0
+--------------------------------
+| advmean           | 0.103    |
+| advstd            | 0.133    |
+| best_ret          | 1        |
+| epcount           | 4.18e+03 |
+| eplen             | 10.2     |
+| eprew             | 0.97     |
+| ev_ext            | 0.904    |
+| ev_int            | -1       |
+| mem_available     | 2.22e+09 |
+| n_rooms           | 0        |
+| n_updates         | 29       |
+| opt_approxkl      | 0.00436  |
+| opt_auxloss       | 1.11e-05 |
+| opt_clipfrac      | 0.0391   |
+| opt_ent           | 0.293    |
+| opt_featvar       | 0.101    |
+| opt_gradnorm      | 0.229    |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.177    |
+| opt_pg            | -0.119   |
+| opt_tot           | -0.119   |
+| opt_vf            | 0.00102  |
+| reset_counter     | 0        |
+| retextmean        | 0.625    |
+| retextstd         | 0.216    |
+| retintmean        | 0.0273   |
+| retintstd         | 0.00299  |
+| rewintmax_norm    | 0.000274 |
+| rewintmax_unnorm  | 0.000509 |
+| rewintmean_norm   | 8.67e-06 |
+| rewintmean_unnorm | 1.61e-05 |
+| rewintstd_unnorm  | 6.77e-05 |
+| rewtotal          | 545      |
+| rooms             | []       |
+| tcount            | 2.96e+04 |
+| time_elapsed      | 164      |
+| tps               | 200      |
+| vpredextmean      | 0.571    |
+| vpredextstd       | 0.231    |
+| vpredintmean      | 0.0318   |
+| vpredintstd       | 0.012    |
+--------------------------------
+we do the update
+[[2668. 2895.  999.    6.    4.    7.]
+ [3841. 2586.  880.   28.   20.   11.]
+ [2370. 2267. 1256.  586.  182.  153.]
+ [1048. 1090.  649.  663.  192.  128.]
+ [ 594.  350.  516.  820.  201.    0.]
+ [ 659.  539.  312.  821.  728.  643.]]
+30712.0
+--------------------------------
+| advmean           | 0.0254   |
+| advstd            | 0.149    |
+| best_ret          | 1        |
+| epcount           | 4.28e+03 |
+| eplen             | 10       |
+| eprew             | 0.95     |
+| ev_ext            | 0.892    |
+| ev_int            | -1       |
+| mem_available     | 2.21e+09 |
+| n_rooms           | 0        |
+| n_updates         | 30       |
+| opt_approxkl      | 0.00492  |
+| opt_auxloss       | 2.97e-06 |
+| opt_clipfrac      | 0.176    |
+| opt_ent           | 0.269    |
+| opt_featvar       | 0.104    |
+| opt_gradnorm      | 0.113    |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.146    |
+| opt_pg            | -0.0367  |
+| opt_tot           | -0.0366  |
+| opt_vf            | 0.000399 |
+| reset_counter     | 0        |
+| retextmean        | 0.622    |
+| retextstd         | 0.226    |
+| retintmean        | 0.0225   |
+| retintstd         | 0.00297  |
+| rewintmax_norm    | 0.00111  |
+| rewintmax_unnorm  | 0.00204  |
+| rewintmean_norm   | 6.44e-06 |
+| rewintmean_unnorm | 1.19e-05 |
+| rewintstd_unnorm  | 7.92e-05 |
+| rewtotal          | 641      |
+| rooms             | []       |
+| tcount            | 3.07e+04 |
+| time_elapsed      | 169      |
+| tps               | 198      |
+| vpredextmean      | 0.607    |
+| vpredextstd       | 0.211    |
+| vpredintmean      | 0.0266   |
+| vpredintstd       | 0.0104   |
+--------------------------------
+we do the update
+[[2677. 2934. 1000.    6.    4.    7.]
+ [3907. 2636.  880.   28.   20.   11.]
+ [2424. 2358. 1349.  618.  182.  153.]
+ [1058. 1090.  708.  723.  192.  128.]
+ [ 604.  360.  556.  920.  201.    0.]
+ [ 659.  539.  312.  919.  829.  744.]]
+31736.0
+--------------------------------
+| advmean           | 0.0326   |
+| advstd            | 0.0612   |
+| best_ret          | 1        |
+| epcount           | 4.38e+03 |
+| eplen             | 10.1     |
+| eprew             | 0.99     |
+| ev_ext            | 0.977    |
+| ev_int            | -1       |
+| mem_available     | 2.21e+09 |
+| n_rooms           | 0        |
+| n_updates         | 31       |
+| opt_approxkl      | 0.00177  |
+| opt_auxloss       | 2.61e-06 |
+| opt_clipfrac      | 0.0547   |
+| opt_ent           | 0.268    |
+| opt_featvar       | 0.103    |
+| opt_gradnorm      | 0.065    |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.0572   |
+| opt_pg            | -0.027   |
+| opt_tot           | -0.0264  |
+| opt_vf            | 0.000776 |
+| reset_counter     | 0        |
+| retextmean        | 0.641    |
+| retextstd         | 0.201    |
+| retintmean        | 0.0199   |
+| retintstd         | 0.0022   |
+| rewintmax_norm    | 8.56e-05 |
+| rewintmax_unnorm  | 0.000156 |
+| rewintmean_norm   | 2.59e-06 |
+| rewintmean_unnorm | 4.73e-06 |
+| rewintstd_unnorm  | 2.13e-05 |
+| rewtotal          | 744      |
+| rooms             | []       |
+| tcount            | 3.17e+04 |
+| time_elapsed      | 174      |
+| tps               | 197      |
+| vpredextmean      | 0.623    |
+| vpredextstd       | 0.204    |
+| vpredintmean      | 0.023    |
+| vpredintstd       | 0.00818  |
+--------------------------------
+we do the update
+[[2680. 2962. 1000.    6.    4.    7.]
+ [3981. 2675.  881.   28.   20.   11.]
+ [2488. 2448. 1438.  646.  182.  153.]
+ [1071. 1090.  769.  775.  192.  128.]
+ [ 616.  372.  606. 1019.  201.    0.]
+ [ 660.  549.  313. 1019.  927.  843.]]
+32760.0
+--------------------------------
+| advmean           | 0.00967  |
+| advstd            | 0.124    |
+| best_ret          | 1        |
+| epcount           | 4.48e+03 |
+| eplen             | 10.1     |
+| eprew             | 0.98     |
+| ev_ext            | 0.913    |
+| ev_int            | -1       |
+| mem_available     | 2.21e+09 |
+| n_rooms           | 0        |
+| n_updates         | 32       |
+| opt_approxkl      | 0.0156   |
+| opt_auxloss       | 2.9e-06  |
+| opt_clipfrac      | 0.383    |
+| opt_ent           | 0.27     |
+| opt_featvar       | 0.103    |
+| opt_gradnorm      | 0.109    |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.177    |
+| opt_pg            | -0.0213  |
+| opt_tot           | -0.0214  |
+| opt_vf            | 0.000161 |
+| reset_counter     | 0        |
+| retextmean        | 0.635    |
+| retextstd         | 0.21     |
+| retintmean        | 0.0179   |
+| retintstd         | 0.00159  |
+| rewintmax_norm    | 0.000285 |
+| rewintmax_unnorm  | 0.000516 |
+| rewintmean_norm   | 3.34e-06 |
+| rewintmean_unnorm | 6.06e-06 |
+| rewintstd_unnorm  | 2.7e-05  |
+| rewtotal          | 842      |
+| rooms             | []       |
+| tcount            | 3.27e+04 |
+| time_elapsed      | 180      |
+| tps               | 194      |
+| vpredextmean      | 0.629    |
+| vpredextstd       | 0.203    |
+| vpredintmean      | 0.0213   |
+| vpredintstd       | 0.00608  |
+--------------------------------
+we do the update
+[[2683. 3004. 1001.    6.    4.    7.]
+ [4044. 2738.  882.   28.   20.   11.]
+ [2527. 2549. 1539.  684.  182.  153.]
+ [1073. 1091.  830.  849.  192.  128.]
+ [ 618.  374.  631. 1119.  201.    0.]
+ [ 660.  549.  313. 1120. 1030.  944.]]
+33784.0
+--------------------------------
+| advmean           | 0.00288  |
+| advstd            | 0.081    |
+| best_ret          | 1        |
+| epcount           | 4.59e+03 |
+| eplen             | 9.84     |
+| eprew             | 0.97     |
+| ev_ext            | 0.961    |
+| ev_int            | -1       |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 33       |
+| opt_approxkl      | 0.000588 |
+| opt_auxloss       | 1.94e-06 |
+| opt_clipfrac      | 0.00781  |
+| opt_ent           | 0.257    |
+| opt_featvar       | 0.106    |
+| opt_gradnorm      | 0.0602   |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.0268   |
+| opt_pg            | -0.00843 |
+| opt_tot           | -0.00853 |
+| opt_vf            | 0.000156 |
+| reset_counter     | 0        |
+| retextmean        | 0.644    |
+| retextstd         | 0.205    |
+| retintmean        | 0.017    |
+| retintstd         | 0.00194  |
+| rewintmax_norm    | 5.75e-05 |
+| rewintmax_unnorm  | 0.000103 |
+| rewintmean_norm   | 1.01e-06 |
+| rewintmean_unnorm | 1.81e-06 |
+| rewintstd_unnorm  | 6.24e-06 |
+| rewtotal          | 944      |
+| rooms             | []       |
+| tcount            | 3.37e+04 |
+| time_elapsed      | 185      |
+| tps               | 203      |
+| vpredextmean      | 0.641    |
+| vpredextstd       | 0.199    |
+| vpredintmean      | 0.0198   |
+| vpredintstd       | 0.00473  |
+--------------------------------
+we do the update
+[[2685. 3055. 1001.    6.    4.    7.]
+ [4097. 2804.  882.   28.   20.   11.]
+ [2565. 2648. 1637.  734.  182.  153.]
+ [1075. 1091.  879.  933.  192.  128.]
+ [ 620.  376.  650. 1223.  201.    0.]
+ [ 660.  549.  313. 1222. 1131. 1046.]]
+34808.0
+--------------------------------
+| advmean           | 0.00936  |
+| advstd            | 0.0178   |
+| best_ret          | 1        |
+| epcount           | 4.69e+03 |
+| eplen             | 10       |
+| eprew             | 1        |
+| ev_ext            | 0.998    |
+| ev_int            | -1       |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 34       |
+| opt_approxkl      | 0.00164  |
+| opt_auxloss       | 1.25e-06 |
+| opt_clipfrac      | 0.176    |
+| opt_ent           | 0.243    |
+| opt_featvar       | 0.105    |
+| opt_gradnorm      | 0.034    |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.0169   |
+| opt_pg            | -0.00864 |
+| opt_tot           | -0.00885 |
+| opt_vf            | 2.36e-05 |
+| reset_counter     | 0        |
+| retextmean        | 0.649    |
+| retextstd         | 0.196    |
+| retintmean        | 0.0161   |
+| retintstd         | 0.00135  |
+| rewintmax_norm    | 5.19e-05 |
+| rewintmax_unnorm  | 9.24e-05 |
+| rewintmean_norm   | 9.13e-07 |
+| rewintmean_unnorm | 1.62e-06 |
+| rewintstd_unnorm  | 5.54e-06 |
+| rewtotal          | 1.05e+03 |
+| rooms             | []       |
+| tcount            | 3.48e+04 |
+| time_elapsed      | 190      |
+| tps               | 196      |
+| vpredextmean      | 0.643    |
+| vpredextstd       | 0.199    |
+| vpredintmean      | 0.0185   |
+| vpredintstd       | 0.00395  |
+--------------------------------
+we do the update
+[[2685. 3098. 1001.    6.    4.    7.]
+ [4155. 2863.  883.   28.   20.   11.]
+ [2606. 2748. 1738.  788.  182.  153.]
+ [1078. 1091.  925. 1022.  192.  128.]
+ [ 623.  379.  663. 1324.  201.    0.]
+ [ 660.  549.  313. 1324. 1234. 1150.]]
+35832.0
+--------------------------------
+| advmean           | -0.00227 |
+| advstd            | 0.0652   |
+| best_ret          | 1        |
+| epcount           | 4.79e+03 |
+| eplen             | 9.97     |
+| eprew             | 0.99     |
+| ev_ext            | 0.973    |
+| ev_int            | -1       |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 35       |
+| opt_approxkl      | 0.00891  |
+| opt_auxloss       | 1.19e-06 |
+| opt_clipfrac      | 0.316    |
+| opt_ent           | 0.23     |
+| opt_featvar       | 0.104    |
+| opt_gradnorm      | 0.056    |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.185    |
+| opt_pg            | 0.0154   |
+| opt_tot           | 0.0172   |
+| opt_vf            | 0.00202  |
+| reset_counter     | 0        |
+| retextmean        | 0.649    |
+| retextstd         | 0.2      |
+| retintmean        | 0.015    |
+| retintstd         | 0.000823 |
+| rewintmax_norm    | 4.99e-05 |
+| rewintmax_unnorm  | 8.81e-05 |
+| rewintmean_norm   | 9.47e-07 |
+| rewintmean_unnorm | 1.67e-06 |
+| rewintstd_unnorm  | 6.23e-06 |
+| rewtotal          | 1.15e+03 |
+| rooms             | []       |
+| tcount            | 3.58e+04 |
+| time_elapsed      | 195      |
+| tps               | 198      |
+| vpredextmean      | 0.648    |
+| vpredextstd       | 0.196    |
+| vpredintmean      | 0.0176   |
+| vpredintstd       | 0.00323  |
+--------------------------------
+we do the update
+[[2685. 3159. 1002.    6.    4.    7.]
+ [4200. 2942.  883.   28.   20.   11.]
+ [2632. 2852. 1841.  852.  182.  153.]
+ [1078. 1091.  963. 1112.  192.  128.]
+ [ 623.  379.  675. 1425.  201.    0.]
+ [ 660.  549.  314. 1425. 1333. 1249.]]
+36856.0
+--------------------------------
+| advmean           | -0.00732 |
+| advstd            | 0.0888   |
+| best_ret          | 1        |
+| epcount           | 4.89e+03 |
+| eplen             | 9.91     |
+| eprew             | 0.98     |
+| ev_ext            | 0.951    |
+| ev_int            | -1       |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 36       |
+| opt_approxkl      | 0.00427  |
+| opt_auxloss       | 1.03e-06 |
+| opt_clipfrac      | 0.121    |
+| opt_ent           | 0.211    |
+| opt_featvar       | 0.106    |
+| opt_gradnorm      | 0.0454   |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.347    |
+| opt_pg            | 0.00498  |
+| opt_tot           | 0.00538  |
+| opt_vf            | 0.000618 |
+| reset_counter     | 0        |
+| retextmean        | 0.644    |
+| retextstd         | 0.201    |
+| retintmean        | 0.0136   |
+| retintstd         | 0.000845 |
+| rewintmax_norm    | 3.83e-06 |
+| rewintmax_unnorm  | 6.69e-06 |
+| rewintmean_norm   | 6.24e-07 |
+| rewintmean_unnorm | 1.09e-06 |
+| rewintstd_unnorm  | 2e-06    |
+| rewtotal          | 1.25e+03 |
+| rooms             | []       |
+| tcount            | 3.68e+04 |
+| time_elapsed      | 200      |
+| tps               | 194      |
+| vpredextmean      | 0.647    |
+| vpredextstd       | 0.194    |
+| vpredintmean      | 0.0161   |
+| vpredintstd       | 0.00276  |
+--------------------------------
+we do the update
+[[2686. 3207. 1002.    6.    4.    7.]
+ [4255. 3002.  883.   28.   20.   11.]
+ [2675. 2950. 1938.  912.  182.  153.]
+ [1082. 1091. 1001. 1203.  192.  128.]
+ [ 627.  383.  686. 1526.  201.    0.]
+ [ 660.  549.  314. 1527. 1437. 1352.]]
+37880.0
+--------------------------------
+| advmean           | 0.00375  |
+| advstd            | 0.0184   |
+| best_ret          | 1        |
+| epcount           | 5e+03    |
+| eplen             | 10       |
+| eprew             | 1        |
+| ev_ext            | 0.998    |
+| ev_int            | -1       |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 37       |
+| opt_approxkl      | 0.000716 |
+| opt_auxloss       | 1.54e-06 |
+| opt_clipfrac      | 0.0156   |
+| opt_ent           | 0.199    |
+| opt_featvar       | 0.106    |
+| opt_gradnorm      | 0.0109   |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.0117   |
+| opt_pg            | -0.00359 |
+| opt_tot           | -0.00375 |
+| opt_vf            | 3.71e-05 |
+| reset_counter     | 0        |
+| retextmean        | 0.651    |
+| retextstd         | 0.196    |
+| retintmean        | 0.0119   |
+| retintstd         | 0.000944 |
+| rewintmax_norm    | 4.8e-05  |
+| rewintmax_unnorm  | 8.32e-05 |
+| rewintmean_norm   | 9.43e-07 |
+| rewintmean_unnorm | 1.63e-06 |
+| rewintstd_unnorm  | 6.68e-06 |
+| rewtotal          | 1.35e+03 |
+| rooms             | []       |
+| tcount            | 3.78e+04 |
+| time_elapsed      | 206      |
+| tps               | 198      |
+| vpredextmean      | 0.648    |
+| vpredextstd       | 0.2      |
+| vpredintmean      | 0.0141   |
+| vpredintstd       | 0.00262  |
+--------------------------------
+we do the update
+[[2688. 3265. 1003.    6.    4.    7.]
+ [4301. 3066.  883.   28.   20.   11.]
+ [2713. 3050. 2039.  977.  182.  153.]
+ [1084. 1091. 1035. 1297.  193.  128.]
+ [ 629.  385.  694. 1629.  203.    0.]
+ [ 660.  549.  314. 1627. 1537. 1453.]]
+38904.0
+--------------------------------
+| advmean           | -0.0183  |
+| advstd            | 0.131    |
+| best_ret          | 1        |
+| epcount           | 5.1e+03  |
+| eplen             | 9.91     |
+| eprew             | 0.97     |
+| ev_ext            | 0.902    |
+| ev_int            | -1       |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 38       |
+| opt_approxkl      | 0.0127   |
+| opt_auxloss       | 9.01e-06 |
+| opt_clipfrac      | 0.184    |
+| opt_ent           | 0.181    |
+| opt_featvar       | 0.105    |
+| opt_gradnorm      | 0.0937   |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.99     |
+| opt_pg            | 0.0288   |
+| opt_tot           | 0.0321   |
+| opt_vf            | 0.00351  |
+| reset_counter     | 0        |
+| retextmean        | 0.64     |
+| retextstd         | 0.209    |
+| retintmean        | 0.0104   |
+| retintstd         | 0.000746 |
+| rewintmax_norm    | 0.00116  |
+| rewintmax_unnorm  | 0.002    |
+| rewintmean_norm   | 1.85e-06 |
+| rewintmean_unnorm | 3.17e-06 |
+| rewintstd_unnorm  | 6.25e-05 |
+| rewtotal          | 1.45e+03 |
+| rooms             | []       |
+| tcount            | 3.89e+04 |
+| time_elapsed      | 211      |
+| tps               | 199      |
+| vpredextmean      | 0.649    |
+| vpredextstd       | 0.198    |
+| vpredintmean      | 0.0121   |
+| vpredintstd       | 0.00251  |
+--------------------------------
+we do the update
+[[2688. 3298. 1003.    6.    4.    7.]
+ [4370. 3110.  883.   28.   20.   11.]
+ [2772. 3147. 2136. 1048.  182.  153.]
+ [1089. 1091. 1063. 1391.  193.  128.]
+ [ 633.  389.  702. 1731.  203.    0.]
+ [ 660.  549.  314. 1731. 1640. 1555.]]
+39928.0
+--------------------------------
+| advmean           | 0.00735  |
+| advstd            | 0.0177   |
+| best_ret          | 1        |
+| epcount           | 5.2e+03  |
+| eplen             | 10       |
+| eprew             | 1        |
+| ev_ext            | 0.998    |
+| ev_int            | -1       |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 39       |
+| opt_approxkl      | 0.00058  |
+| opt_auxloss       | 1.36e-06 |
+| opt_clipfrac      | 0.0195   |
+| opt_ent           | 0.18     |
+| opt_featvar       | 0.104    |
+| opt_gradnorm      | 0.0174   |
+| opt_maxfeat       | 1.87     |
+| opt_maxkl         | 0.0324   |
+| opt_pg            | -0.00782 |
+| opt_tot           | -0.00797 |
+| opt_vf            | 3.15e-05 |
+| reset_counter     | 0        |
+| retextmean        | 0.651    |
+| retextstd         | 0.196    |
+| retintmean        | 0.00851  |
+| retintstd         | 0.00084  |
+| rewintmax_norm    | 4.5e-05  |
+| rewintmax_unnorm  | 7.67e-05 |
+| rewintmean_norm   | 8.48e-07 |
+| rewintmean_unnorm | 1.45e-06 |
+| rewintstd_unnorm  | 6.11e-06 |
+| rewtotal          | 1.55e+03 |
+| rooms             | []       |
+| tcount            | 3.99e+04 |
+| time_elapsed      | 216      |
+| tps               | 202      |
+| vpredextmean      | 0.647    |
+| vpredextstd       | 0.197    |
+| vpredintmean      | 0.00998  |
+| vpredintstd       | 0.00225  |
+--------------------------------
+we do the update
+[[2691. 3332. 1004.    6.    4.    7.]
+ [4439. 3159.  883.   28.   20.   11.]
+ [2825. 3249. 2237. 1122.  182.  153.]
+ [1090. 1091. 1090. 1493.  193.  128.]
+ [ 634.  390.  703. 1834.  203.    0.]
+ [ 660.  549.  314. 1832. 1741. 1655.]]
+40952.0
+--------------------------------
+| advmean           | -0.00158 |
+| advstd            | 0.0385   |
+| best_ret          | 1        |
+| epcount           | 5.3e+03  |
+| eplen             | 9.98     |
+| eprew             | 0.99     |
+| ev_ext            | 0.991    |
+| ev_int            | -1       |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 40       |
+| opt_approxkl      | 0.000757 |
+| opt_auxloss       | 1.26e-06 |
+| opt_clipfrac      | 0.0273   |
+| opt_ent           | 0.187    |
+| opt_featvar       | 0.105    |
+| opt_gradnorm      | 0.0125   |
+| opt_maxfeat       | 1.86     |
+| opt_maxkl         | 0.0188   |
+| opt_pg            | -0.00154 |
+| opt_tot           | -0.00169 |
+| opt_vf            | 3.22e-05 |
+| reset_counter     | 0        |
+| retextmean        | 0.649    |
+| retextstd         | 0.197    |
+| retintmean        | 0.00735  |
+| retintstd         | 0.000698 |
+| rewintmax_norm    | 4.3e-05  |
+| rewintmax_unnorm  | 7.26e-05 |
+| rewintmean_norm   | 5.33e-07 |
+| rewintmean_unnorm | 9e-07    |
+| rewintstd_unnorm  | 3.12e-06 |
+| rewtotal          | 1.65e+03 |
+| rooms             | []       |
+| tcount            | 4.09e+04 |
+| time_elapsed      | 221      |
+| tps               | 195      |
+| vpredextmean      | 0.649    |
+| vpredextstd       | 0.196    |
+| vpredintmean      | 0.00853  |
+| vpredintstd       | 0.00208  |
+--------------------------------
+we do the update
+[[2692. 3356. 1004.    6.    4.    7.]
+ [4518. 3193.  883.   28.   20.   11.]
+ [2893. 3346. 2336. 1200.  182.  153.]
+ [1095. 1091. 1111. 1587.  193.  128.]
+ [ 639.  395.  711. 1935.  203.    0.]
+ [ 660.  549.  314. 1933. 1842. 1758.]]
+41976.0
+---------------------------------
+| advmean           | -0.000956 |
+| advstd            | 0.0159    |
+| best_ret          | 1         |
+| epcount           | 5.41e+03  |
+| eplen             | 10        |
+| eprew             | 1         |
+| ev_ext            | 0.998     |
+| ev_int            | -1        |
+| mem_available     | 2.2e+09   |
+| n_rooms           | 0         |
+| n_updates         | 41        |
+| opt_approxkl      | 0.00221   |
+| opt_auxloss       | 2.11e-06  |
+| opt_clipfrac      | 0.082     |
+| opt_ent           | 0.171     |
+| opt_featvar       | 0.105     |
+| opt_gradnorm      | 0.0119    |
+| opt_maxfeat       | 1.86      |
+| opt_maxkl         | 0.0379    |
+| opt_pg            | -0.00198  |
+| opt_tot           | -0.00209  |
+| opt_vf            | 5.79e-05  |
+| reset_counter     | 0         |
+| retextmean        | 0.65      |
+| retextstd         | 0.195     |
+| retintmean        | 0.00614   |
+| retintstd         | 0.000331  |
+| rewintmax_norm    | 4.2e-05   |
+| rewintmax_unnorm  | 7.04e-05  |
+| rewintmean_norm   | 8.01e-07  |
+| rewintmean_unnorm | 1.34e-06  |
+| rewintstd_unnorm  | 6.17e-06  |
+| rewtotal          | 1.76e+03  |
+| rooms             | []        |
+| tcount            | 4.19e+04  |
+| time_elapsed      | 226       |
+| tps               | 203       |
+| vpredextmean      | 0.65      |
+| vpredextstd       | 0.195     |
+| vpredintmean      | 0.00724   |
+| vpredintstd       | 0.00179   |
+---------------------------------
+we do the update
+[[2693. 3389. 1004.    6.    4.    7.]
+ [4588. 3241.  883.   28.   20.   11.]
+ [2949. 3446. 2435. 1273.  182.  153.]
+ [1098. 1091. 1136. 1682.  194.  128.]
+ [ 642.  398.  718. 2036.  204.    0.]
+ [ 660.  549.  314. 2035. 1944. 1859.]]
+43000.0
+--------------------------------
+| advmean           | -0.00911 |
+| advstd            | 0.0846   |
+| best_ret          | 1        |
+| epcount           | 5.51e+03 |
+| eplen             | 10       |
+| eprew             | 0.99     |
+| ev_ext            | 0.956    |
+| ev_int            | -1       |
+| mem_available     | 2.22e+09 |
+| n_rooms           | 0        |
+| n_updates         | 42       |
+| opt_approxkl      | 0.0132   |
+| opt_auxloss       | 1.05e-06 |
+| opt_clipfrac      | 0.223    |
+| opt_ent           | 0.164    |
+| opt_featvar       | 0.105    |
+| opt_gradnorm      | 0.041    |
+| opt_maxfeat       | 1.86     |
+| opt_maxkl         | 0.261    |
+| opt_pg            | 0.000858 |
+| opt_tot           | 0.000727 |
+| opt_vf            | 3.18e-05 |
+| reset_counter     | 0        |
+| retextmean        | 0.646    |
+| retextstd         | 0.202    |
+| retintmean        | 0.00494  |
+| retintstd         | 0.000447 |
+| rewintmax_norm    | 0.00114  |
+| rewintmax_unnorm  | 0.00189  |
+| rewintmean_norm   | 1.7e-06  |
+| rewintmean_unnorm | 2.82e-06 |
+| rewintstd_unnorm  | 5.91e-05 |
+| rewtotal          | 1.86e+03 |
+| rooms             | []       |
+| tcount            | 4.3e+04  |
+| time_elapsed      | 231      |
+| tps               | 203      |
+| vpredextmean      | 0.651    |
+| vpredextstd       | 0.195    |
+| vpredintmean      | 0.0058   |
+| vpredintstd       | 0.0017   |
+--------------------------------
+we do the update
+[[2695. 3428. 1004.    6.    4.    7.]
+ [4652. 3292.  883.   28.   20.   11.]
+ [3000. 3548. 2536. 1363.  182.  153.]
+ [1098. 1091. 1148. 1783.  194.  128.]
+ [ 642.  398.  719. 2138.  204.    0.]
+ [ 660.  549.  314. 2137. 2047. 1962.]]
+44024.0
+--------------------------------
+| advmean           | 0.00473  |
+| advstd            | 0.00751  |
+| best_ret          | 1        |
+| epcount           | 5.61e+03 |
+| eplen             | 10       |
+| eprew             | 1        |
+| ev_ext            | 1        |
+| ev_int            | -1       |
+| mem_available     | 2.21e+09 |
+| n_rooms           | 0        |
+| n_updates         | 43       |
+| opt_approxkl      | 0.00281  |
+| opt_auxloss       | 5.29e-07 |
+| opt_clipfrac      | 0.125    |
+| opt_ent           | 0.142    |
+| opt_featvar       | 0.103    |
+| opt_gradnorm      | 0.0115   |
+| opt_maxfeat       | 1.86     |
+| opt_maxkl         | 0.0784   |
+| opt_pg            | -0.00444 |
+| opt_tot           | -0.00458 |
+| opt_vf            | 9.73e-06 |
+| reset_counter     | 0        |
+| retextmean        | 0.65     |
+| retextstd         | 0.196    |
+| retintmean        | 0.00382  |
+| retintstd         | 0.000394 |
+| rewintmax_norm    | 2.03e-06 |
+| rewintmax_unnorm  | 3.34e-06 |
+| rewintmean_norm   | 3.31e-07 |
+| rewintmean_unnorm | 5.44e-07 |
+| rewintstd_unnorm  | 9.91e-07 |
+| rewtotal          | 1.96e+03 |
+| rooms             | []       |
+| tcount            | 4.4e+04  |
+| time_elapsed      | 236      |
+| tps               | 203      |
+| vpredextmean      | 0.647    |
+| vpredextstd       | 0.196    |
+| vpredintmean      | 0.00446  |
+| vpredintstd       | 0.00142  |
+--------------------------------
+we do the update
+[[2696. 3474. 1004.    6.    4.    7.]
+ [4707. 3357.  883.   28.   20.   11.]
+ [3036. 3649. 2638. 1459.  182.  153.]
+ [1099. 1091. 1153. 1882.  194.  128.]
+ [ 643.  399.  722. 2241.  204.    0.]
+ [ 660.  549.  314. 2240. 2150. 2065.]]
+45048.0
+---------------------------------
+| advmean           | 0.0011    |
+| advstd            | 0.00833   |
+| best_ret          | 1         |
+| epcount           | 5.71e+03  |
+| eplen             | 10        |
+| eprew             | 1         |
+| ev_ext            | 1         |
+| ev_int            | -1        |
+| mem_available     | 2.2e+09   |
+| n_rooms           | 0         |
+| n_updates         | 44        |
+| opt_approxkl      | 0.000261  |
+| opt_auxloss       | 4.74e-07  |
+| opt_clipfrac      | 0.00391   |
+| opt_ent           | 0.151     |
+| opt_featvar       | 0.104     |
+| opt_gradnorm      | 0.0167    |
+| opt_maxfeat       | 1.66      |
+| opt_maxkl         | 0.00599   |
+| opt_pg            | 4.68e-05  |
+| opt_tot           | -9.59e-05 |
+| opt_vf            | 7.97e-06  |
+| reset_counter     | 0         |
+| retextmean        | 0.652     |
+| retextstd         | 0.196     |
+| retintmean        | 0.0034    |
+| retintstd         | 0.000285  |
+| rewintmax_norm    | 3.75e-05  |
+| rewintmax_unnorm  | 6.12e-05  |
+| rewintmean_norm   | 3.75e-07  |
+| rewintmean_unnorm | 6.13e-07  |
+| rewintstd_unnorm  | 2.51e-06  |
+| rewtotal          | 2.06e+03  |
+| rooms             | []        |
+| tcount            | 4.5e+04   |
+| time_elapsed      | 241       |
+| tps               | 203       |
+| vpredextmean      | 0.651     |
+| vpredextstd       | 0.196     |
+| vpredintmean      | 0.004     |
+| vpredintstd       | 0.0012    |
+---------------------------------
+we do the update
+[[2696. 3523. 1004.    6.    4.    7.]
+ [4762. 3432.  883.   28.   20.   11.]
+ [3065. 3752. 2740. 1557.  183.  153.]
+ [1099. 1091. 1158. 1982.  195.  128.]
+ [ 643.  399.  724. 2343.  205.    0.]
+ [ 660.  549.  314. 2342. 2249. 2165.]]
+46072.0
+--------------------------------
+| advmean           | -0.00826 |
+| advstd            | 0.0757   |
+| best_ret          | 1        |
+| epcount           | 5.82e+03 |
+| eplen             | 9.99     |
+| eprew             | 0.99     |
+| ev_ext            | 0.964    |
+| ev_int            | -1       |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 45       |
+| opt_approxkl      | 0.00392  |
+| opt_auxloss       | 4.04e-07 |
+| opt_clipfrac      | 0.0508   |
+| opt_ent           | 0.136    |
+| opt_featvar       | 0.106    |
+| opt_gradnorm      | 0.0306   |
+| opt_maxfeat       | 1.86     |
+| opt_maxkl         | 0.29     |
+| opt_pg            | 0.0025   |
+| opt_tot           | 0.00239  |
+| opt_vf            | 2.03e-05 |
+| reset_counter     | 0        |
+| retextmean        | 0.646    |
+| retextstd         | 0.201    |
+| retintmean        | 0.00266  |
+| retintstd         | 0.000202 |
+| rewintmax_norm    | 0.00109  |
+| rewintmax_unnorm  | 0.00177  |
+| rewintmean_norm   | 1.65e-06 |
+| rewintmean_unnorm | 2.67e-06 |
+| rewintstd_unnorm  | 5.76e-05 |
+| rewtotal          | 2.16e+03 |
+| rooms             | []       |
+| tcount            | 4.6e+04  |
+| time_elapsed      | 246      |
+| tps               | 198      |
+| vpredextmean      | 0.65     |
+| vpredextstd       | 0.195    |
+| vpredintmean      | 0.00316  |
+| vpredintstd       | 0.0011   |
+--------------------------------
+we do the update
+[[2698. 3581. 1004.    6.    4.    7.]
+ [4809. 3499.  883.   28.   20.   11.]
+ [3100. 3853. 2841. 1647.  183.  153.]
+ [1100. 1091. 1168. 2079.  195.  128.]
+ [ 644.  400.  728. 2443.  205.    0.]
+ [ 660.  549.  314. 2443. 2353. 2269.]]
+47096.0
+--------------------------------
+| advmean           | 0.0058   |
+| advstd            | 0.0145   |
+| best_ret          | 1        |
+| epcount           | 5.92e+03 |
+| eplen             | 10.1     |
+| eprew             | 1        |
+| ev_ext            | 0.999    |
+| ev_int            | -1       |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 46       |
+| opt_approxkl      | 0.001    |
+| opt_auxloss       | 4.19e-07 |
+| opt_clipfrac      | 0.105    |
+| opt_ent           | 0.158    |
+| opt_featvar       | 0.104    |
+| opt_gradnorm      | 0.0139   |
+| opt_maxfeat       | 1.86     |
+| opt_maxkl         | 0.0436   |
+| opt_pg            | -0.00395 |
+| opt_tot           | -0.00406 |
+| opt_vf            | 5.23e-05 |
+| reset_counter     | 0        |
+| retextmean        | 0.649    |
+| retextstd         | 0.197    |
+| retintmean        | 0.00186  |
+| retintstd         | 0.000245 |
+| rewintmax_norm    | 3.9e-05  |
+| rewintmax_unnorm  | 6.28e-05 |
+| rewintmean_norm   | 3.51e-07 |
+| rewintmean_unnorm | 5.64e-07 |
+| rewintstd_unnorm  | 2.59e-06 |
+| rewtotal          | 2.27e+03 |
+| rooms             | []       |
+| tcount            | 4.71e+04 |
+| time_elapsed      | 252      |
+| tps               | 200      |
+| vpredextmean      | 0.645    |
+| vpredextstd       | 0.197    |
+| vpredintmean      | 0.00218  |
+| vpredintstd       | 0.00116  |
+--------------------------------
+we do the update
+[[2698. 3635. 1004.    6.    4.    7.]
+ [4858. 3570.  883.   28.   20.   11.]
+ [3131. 3954. 2943. 1733.  183.  153.]
+ [1100. 1091. 1184. 2175.  195.  128.]
+ [ 644.  400.  735. 2547.  205.    0.]
+ [ 660.  549.  314. 2546. 2456. 2370.]]
+48120.0
+--------------------------------
+| advmean           | 0.00164  |
+| advstd            | 0.00834  |
+| best_ret          | 1        |
+| epcount           | 6.02e+03 |
+| eplen             | 10       |
+| eprew             | 1        |
+| ev_ext            | 1        |
+| ev_int            | -1       |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 47       |
+| opt_approxkl      | 4.53e-05 |
+| opt_auxloss       | 3.61e-07 |
+| opt_clipfrac      | 0        |
+| opt_ent           | 0.151    |
+| opt_featvar       | 0.105    |
+| opt_gradnorm      | 0.00942  |
+| opt_maxfeat       | 1.86     |
+| opt_maxkl         | 0.00172  |
+| opt_pg            | -0.00178 |
+| opt_tot           | -0.00193 |
+| opt_vf            | 4.29e-06 |
+| reset_counter     | 0        |
+| retextmean        | 0.652    |
+| retextstd         | 0.196    |
+| retintmean        | 0.00195  |
+| retintstd         | 0.000356 |
+| rewintmax_norm    | 3.02e-06 |
+| rewintmax_unnorm  | 4.81e-06 |
+| rewintmean_norm   | 2.47e-07 |
+| rewintmean_unnorm | 3.94e-07 |
+| rewintstd_unnorm  | 7.27e-07 |
+| rewtotal          | 2.37e+03 |
+| rooms             | []       |
+| tcount            | 4.81e+04 |
+| time_elapsed      | 257      |
+| tps               | 201      |
+| vpredextmean      | 0.651    |
+| vpredextstd       | 0.195    |
+| vpredintmean      | 0.00214  |
+| vpredintstd       | 0.00107  |
+--------------------------------
+we do the update
+[[2699. 3686. 1004.    6.    4.    7.]
+ [4908. 3634.  883.   28.   20.   11.]
+ [3169. 4056. 3046. 1823.  183.  153.]
+ [1100. 1091. 1198. 2273.  195.  128.]
+ [ 644.  400.  740. 2650.  205.    0.]
+ [ 660.  549.  314. 2648. 2558. 2471.]]
+49144.0
+--------------------------------
+| advmean           | -0.00181 |
+| advstd            | 0.00584  |
+| best_ret          | 1        |
+| epcount           | 6.12e+03 |
+| eplen             | 10       |
+| eprew             | 1        |
+| ev_ext            | 1        |
+| ev_int            | -1       |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 48       |
+| opt_approxkl      | 0.000198 |
+| opt_auxloss       | 3.35e-07 |
+| opt_clipfrac      | 0        |
+| opt_ent           | 0.148    |
+| opt_featvar       | 0.104    |
+| opt_gradnorm      | 0.00404  |
+| opt_maxfeat       | 1.86     |
+| opt_maxkl         | 0.00261  |
+| opt_pg            | 0.00223  |
+| opt_tot           | 0.00208  |
+| opt_vf            | 1.31e-06 |
+| reset_counter     | 0        |
+| retextmean        | 0.652    |
+| retextstd         | 0.195    |
+| retintmean        | 0.00154  |
+| retintstd         | 0.000257 |
+| rewintmax_norm    | 2.75e-06 |
+| rewintmax_unnorm  | 4.35e-06 |
+| rewintmean_norm   | 2.19e-07 |
+| rewintmean_unnorm | 3.47e-07 |
+| rewintstd_unnorm  | 6.39e-07 |
+| rewtotal          | 2.47e+03 |
+| rooms             | []       |
+| tcount            | 4.91e+04 |
+| time_elapsed      | 262      |
+| tps               | 200      |
+| vpredextmean      | 0.653    |
+| vpredextstd       | 0.194    |
+| vpredintmean      | 0.00178  |
+| vpredintstd       | 0.000998 |
+--------------------------------
+we do the update
+[[2699. 3746. 1004.    6.    4.    7.]
+ [4950. 3708.  883.   28.   20.   11.]
+ [3198. 4158. 3147. 1906.  183.  153.]
+ [1102. 1091. 1216. 2366.  195.  128.]
+ [ 646.  402.  749. 2752.  205.    0.]
+ [ 660.  549.  314. 2749. 2659. 2574.]]
+50168.0
+---------------------------------
+| advmean           | 0.000119  |
+| advstd            | 0.00933   |
+| best_ret          | 1         |
+| epcount           | 6.22e+03  |
+| eplen             | 10        |
+| eprew             | 1         |
+| ev_ext            | 0.999     |
+| ev_int            | -1        |
+| mem_available     | 2.2e+09   |
+| n_rooms           | 0         |
+| n_updates         | 49        |
+| opt_approxkl      | 4.12e-05  |
+| opt_auxloss       | 3.04e-07  |
+| opt_clipfrac      | 0         |
+| opt_ent           | 0.145     |
+| opt_featvar       | 0.106     |
+| opt_gradnorm      | 0.0064    |
+| opt_maxfeat       | 1.86      |
+| opt_maxkl         | 0.00117   |
+| opt_pg            | 1.47e-05  |
+| opt_tot           | -0.000128 |
+| opt_vf            | 2.43e-06  |
+| reset_counter     | 0         |
+| retextmean        | 0.65      |
+| retextstd         | 0.195     |
+| retintmean        | 0.00115   |
+| retintstd         | 0.00043   |
+| rewintmax_norm    | 4.28e-05  |
+| rewintmax_unnorm  | 6.71e-05  |
+| rewintmean_norm   | 3.81e-07  |
+| rewintmean_unnorm | 5.99e-07  |
+| rewintstd_unnorm  | 3.93e-06  |
+| rewtotal          | 2.57e+03  |
+| rooms             | []        |
+| tcount            | 5.01e+04  |
+| time_elapsed      | 267       |
+| tps               | 200       |
+| vpredextmean      | 0.65      |
+| vpredextstd       | 0.194     |
+| vpredintmean      | 0.00141   |
+| vpredintstd       | 0.000938  |
+---------------------------------
+we do the update
+[[2699. 3807. 1004.    6.    4.    7.]
+ [4993. 3777.  883.   28.   20.   11.]
+ [3232. 4259. 3247. 1989.  183.  153.]
+ [1104. 1091. 1233. 2457.  195.  128.]
+ [ 648.  404.  759. 2853.  205.    0.]
+ [ 660.  549.  314. 2852. 2761. 2677.]]
+51192.0
+--------------------------------
+| advmean           | 5.01e-05 |
+| advstd            | 0.00878  |
+| best_ret          | 1        |
+| epcount           | 6.33e+03 |
+| eplen             | 10       |
+| eprew             | 1        |
+| ev_ext            | 1        |
+| ev_int            | -1       |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 50       |
+| opt_approxkl      | 5.14e-05 |
+| opt_auxloss       | 2.79e-07 |
+| opt_clipfrac      | 0        |
+| opt_ent           | 0.152    |
+| opt_featvar       | 0.105    |
+| opt_gradnorm      | 0.00592  |
+| opt_maxfeat       | 1.86     |
+| opt_maxkl         | 0.00393  |
+| opt_pg            | 0.000456 |
+| opt_tot           | 0.000306 |
+| opt_vf            | 1.66e-06 |
+| reset_counter     | 0        |
+| retextmean        | 0.65     |
+| retextstd         | 0.195    |
+| retintmean        | 0.000948 |
+| retintstd         | 0.000145 |
+| rewintmax_norm    | 4.2e-05  |
+| rewintmax_unnorm  | 6.55e-05 |
+| rewintmean_norm   | 3.59e-07 |
+| rewintmean_unnorm | 5.6e-07  |
+| rewintstd_unnorm  | 3.82e-06 |
+| rewtotal          | 2.68e+03 |
+| rooms             | []       |
+| tcount            | 5.12e+04 |
+| time_elapsed      | 272      |
+| tps               | 192      |
+| vpredextmean      | 0.65     |
+| vpredextstd       | 0.195    |
+| vpredintmean      | 0.00108  |
+| vpredintstd       | 0.000898 |
+--------------------------------
+we do the update
+[[2699. 3875. 1004.    6.    4.    7.]
+ [5029. 3858.  883.   28.   20.   11.]
+ [3253. 4359. 3347. 2075.  183.  153.]
+ [1105. 1091. 1247. 2554.  195.  128.]
+ [ 649.  405.  765. 2955.  205.    0.]
+ [ 660.  549.  314. 2955. 2865. 2780.]]
+52216.0
+---------------------------------
+| advmean           | -0.000649 |
+| advstd            | 0.00759   |
+| best_ret          | 1         |
+| epcount           | 6.43e+03  |
+| eplen             | 10        |
+| eprew             | 1         |
+| ev_ext            | 1         |
+| ev_int            | -1        |
+| mem_available     | 2.2e+09   |
+| n_rooms           | 0         |
+| n_updates         | 51        |
+| opt_approxkl      | 0.000107  |
+| opt_auxloss       | 2.35e-07  |
+| opt_clipfrac      | 0.00391   |
+| opt_ent           | 0.136     |
+| opt_featvar       | 0.104     |
+| opt_gradnorm      | 0.0165    |
+| opt_maxfeat       | 1.86      |
+| opt_maxkl         | 0.00552   |
+| opt_pg            | 0.00172   |
+| opt_tot           | 0.00159   |
+| opt_vf            | 9.75e-06  |
+| reset_counter     | 0         |
+| retextmean        | 0.652     |
+| retextstd         | 0.196     |
+| retintmean        | 0.000785  |
+| retintstd         | 0.000203  |
+| rewintmax_norm    | 4.07e-05  |
+| rewintmax_unnorm  | 6.3e-05   |
+| rewintmean_norm   | 2.41e-07  |
+| rewintmean_unnorm | 3.73e-07  |
+| rewintstd_unnorm  | 2.59e-06  |
+| rewtotal          | 2.78e+03  |
+| rooms             | []        |
+| tcount            | 5.22e+04  |
+| time_elapsed      | 277       |
+| tps               | 204       |
+| vpredextmean      | 0.652     |
+| vpredextstd       | 0.196     |
+| vpredintmean      | 0.000894  |
+| vpredintstd       | 0.000782  |
+---------------------------------
+we do the update
+[[2700. 3934. 1004.    6.    4.    7.]
+ [5070. 3929.  883.   28.   20.   11.]
+ [3283. 4461. 3450. 2169.  183.  153.]
+ [1105. 1091. 1255. 2654.  195.  128.]
+ [ 649.  405.  768. 3059.  205.    0.]
+ [ 660.  549.  314. 3058. 2968. 2882.]]
+53240.0
+---------------------------------
+| advmean           | -0.000787 |
+| advstd            | 0.00408   |
+| best_ret          | 1         |
+| epcount           | 6.53e+03  |
+| eplen             | 10        |
+| eprew             | 1         |
+| ev_ext            | 1         |
+| ev_int            | -1        |
+| mem_available     | 2.2e+09   |
+| n_rooms           | 0         |
+| n_updates         | 52        |
+| opt_approxkl      | 3.34e-05  |
+| opt_auxloss       | 2.5e-07   |
+| opt_clipfrac      | 0         |
+| opt_ent           | 0.157     |
+| opt_featvar       | 0.104     |
+| opt_gradnorm      | 0.00322   |
+| opt_maxfeat       | 1.86      |
+| opt_maxkl         | 0.0009    |
+| opt_pg            | 0.000575  |
+| opt_tot           | 0.00042   |
+| opt_vf            | 1.63e-06  |
+| reset_counter     | 0         |
+| retextmean        | 0.653     |
+| retextstd         | 0.195     |
+| retintmean        | 0.000741  |
+| retintstd         | 0.000136  |
+| rewintmax_norm    | 1.05e-06  |
+| rewintmax_unnorm  | 1.61e-06  |
+| rewintmean_norm   | 1.48e-07  |
+| rewintmean_unnorm | 2.27e-07  |
+| rewintstd_unnorm  | 3.92e-07  |
+| rewtotal          | 2.88e+03  |
+| rooms             | []        |
+| tcount            | 5.32e+04  |
+| time_elapsed      | 282       |
+| tps               | 203       |
+| vpredextmean      | 0.653     |
+| vpredextstd       | 0.195     |
+| vpredintmean      | 0.000835  |
+| vpredintstd       | 0.000718  |
+---------------------------------
+we do the update
+[[2702. 3979. 1004.    6.    4.    7.]
+ [5128. 3989.  883.   28.   20.   11.]
+ [3326. 4563. 3553. 2265.  183.  153.]
+ [1105. 1091. 1263. 2755.  195.  128.]
+ [ 649.  405.  770. 3161.  205.    0.]
+ [ 660.  549.  314. 3159. 3068. 2983.]]
+54264.0
+---------------------------------
+| advmean           | -0.000602 |
+| advstd            | 0.00544   |
+| best_ret          | 1         |
+| epcount           | 6.63e+03  |
+| eplen             | 10        |
+| eprew             | 1         |
+| ev_ext            | 1         |
+| ev_int            | -1        |
+| mem_available     | 2.2e+09   |
+| n_rooms           | 0         |
+| n_updates         | 53        |
+| opt_approxkl      | 0.00105   |
+| opt_auxloss       | 2.07e-07  |
+| opt_clipfrac      | 0.0703    |
+| opt_ent           | 0.14      |
+| opt_featvar       | 0.103     |
+| opt_gradnorm      | 0.00501   |
+| opt_maxfeat       | 1.65      |
+| opt_maxkl         | 0.0181    |
+| opt_pg            | 0.000935  |
+| opt_tot           | 0.000802  |
+| opt_vf            | 6.34e-06  |
+| reset_counter     | 0         |
+| retextmean        | 0.65      |
+| retextstd         | 0.195     |
+| retintmean        | 0.000598  |
+| retintstd         | 0.000151  |
+| rewintmax_norm    | 1.13e-06  |
+| rewintmax_unnorm  | 1.73e-06  |
+| rewintmean_norm   | 1.54e-07  |
+| rewintmean_unnorm | 2.34e-07  |
+| rewintstd_unnorm  | 3.62e-07  |
+| rewtotal          | 2.98e+03  |
+| rooms             | []        |
+| tcount            | 5.42e+04  |
+| time_elapsed      | 287       |
+| tps               | 209       |
+| vpredextmean      | 0.65      |
+| vpredextstd       | 0.194     |
+| vpredintmean      | 0.000711  |
+| vpredintstd       | 0.000751  |
+---------------------------------
+we do the update
+[[2702. 4040. 1004.    6.    4.    7.]
+ [5169. 4056.  883.   28.   20.   11.]
+ [3362. 4667. 3656. 2356.  183.  153.]
+ [1105. 1091. 1274. 2853.  195.  128.]
+ [ 649.  405.  773. 3262.  205.    0.]
+ [ 660.  549.  314. 3261. 3171. 3086.]]
+55288.0
+---------------------------------
+| advmean           | 6.06e-05  |
+| advstd            | 0.00344   |
+| best_ret          | 1         |
+| epcount           | 6.74e+03  |
+| eplen             | 10        |
+| eprew             | 1         |
+| ev_ext            | 1         |
+| ev_int            | -1        |
+| mem_available     | 2.2e+09   |
+| n_rooms           | 0         |
+| n_updates         | 54        |
+| opt_approxkl      | 6.17e-05  |
+| opt_auxloss       | 1.89e-07  |
+| opt_clipfrac      | 0         |
+| opt_ent           | 0.154     |
+| opt_featvar       | 0.104     |
+| opt_gradnorm      | 0.00515   |
+| opt_maxfeat       | 1.86      |
+| opt_maxkl         | 0.00165   |
+| opt_pg            | -0.000246 |
+| opt_tot           | -0.000398 |
+| opt_vf            | 1.45e-06  |
+| reset_counter     | 0         |
+| retextmean        | 0.651     |
+| retextstd         | 0.195     |
+| retintmean        | 0.000496  |
+| retintstd         | 0.000101  |
+| rewintmax_norm    | 1.37e-06  |
+| rewintmax_unnorm  | 2.08e-06  |
+| rewintmean_norm   | 1.32e-07  |
+| rewintmean_unnorm | 2e-07     |
+| rewintstd_unnorm  | 3.15e-07  |
+| rewtotal          | 3.08e+03  |
+| rooms             | []        |
+| tcount            | 5.52e+04  |
+| time_elapsed      | 292       |
+| tps               | 199       |
+| vpredextmean      | 0.651     |
+| vpredextstd       | 0.195     |
+| vpredintmean      | 0.000562  |
+| vpredintstd       | 0.000711  |
+---------------------------------
+we do the update
+[[2702. 4110. 1004.    6.    4.    7.]
+ [5203. 4139.  883.   28.   20.   11.]
+ [3382. 4769. 3757. 2448.  183.  153.]
+ [1105. 1091. 1283. 2950.  195.  128.]
+ [ 649.  405.  778. 3365.  205.    0.]
+ [ 660.  549.  314. 3364. 3273. 3189.]]
+56312.0
+---------------------------------
+| advmean           | -9.84e-06 |
+| advstd            | 0.00242   |
+| best_ret          | 1         |
+| epcount           | 6.84e+03  |
+| eplen             | 10        |
+| eprew             | 1         |
+| ev_ext            | 1         |
+| ev_int            | -1        |
+| mem_available     | 2.2e+09   |
+| n_rooms           | 0         |
+| n_updates         | 55        |
+| opt_approxkl      | 0.000193  |
+| opt_auxloss       | 1.61e-07  |
+| opt_clipfrac      | 0.00391   |
+| opt_ent           | 0.136     |
+| opt_featvar       | 0.103     |
+| opt_gradnorm      | 0.00158   |
+| opt_maxfeat       | 1.86      |
+| opt_maxkl         | 0.0085    |
+| opt_pg            | 0.000247  |
+| opt_tot           | 0.000112  |
+| opt_vf            | 4.62e-07  |
+| reset_counter     | 0         |
+| retextmean        | 0.651     |
+| retextstd         | 0.196     |
+| retintmean        | 0.00044   |
+| retintstd         | 0.000203  |
+| rewintmax_norm    | 1.58e-06  |
+| rewintmax_unnorm  | 2.38e-06  |
+| rewintmean_norm   | 1.17e-07  |
+| rewintmean_unnorm | 1.76e-07  |
+| rewintstd_unnorm  | 3.05e-07  |
+| rewtotal          | 3.19e+03  |
+| rooms             | []        |
+| tcount            | 5.63e+04  |
+| time_elapsed      | 297       |
+| tps               | 203       |
+| vpredextmean      | 0.651     |
+| vpredextstd       | 0.196     |
+| vpredintmean      | 0.000462  |
+| vpredintstd       | 0.00059   |
+---------------------------------
+we do the update
+[[2702. 4172. 1004.    6.    4.    7.]
+ [5244. 4211.  884.   28.   20.   11.]
+ [3411. 4870. 3859. 2539.  183.  153.]
+ [1105. 1091. 1294. 3050.  195.  128.]
+ [ 649.  405.  780. 3467.  205.    0.]
+ [ 660.  549.  314. 3467. 3377. 3292.]]
+57336.0
+--------------------------------
+| advmean           | -0.00429 |
+| advstd            | 0.0632   |
+| best_ret          | 1        |
+| epcount           | 6.94e+03 |
+| eplen             | 9.95     |
+| eprew             | 0.99     |
+| ev_ext            | 0.975    |
+| ev_int            | -1       |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 56       |
+| opt_approxkl      | 0.0222   |
+| opt_auxloss       | 1.51e-07 |
+| opt_clipfrac      | 0.242    |
+| opt_ent           | 0.0953   |
+| opt_featvar       | 0.102    |
+| opt_gradnorm      | 0.103    |
+| opt_maxfeat       | 1.86     |
+| opt_maxkl         | 1.82     |
+| opt_pg            | 0.0164   |
+| opt_tot           | 0.0184   |
+| opt_vf            | 0.00203  |
+| reset_counter     | 0        |
+| retextmean        | 0.65     |
+| retextstd         | 0.2      |
+| retintmean        | 0.000352 |
+| retintstd         | 0.000129 |
+| rewintmax_norm    | 1.56e-06 |
+| rewintmax_unnorm  | 2.33e-06 |
+| rewintmean_norm   | 1.11e-07 |
+| rewintmean_unnorm | 1.65e-07 |
+| rewintstd_unnorm  | 2.68e-07 |
+| rewtotal          | 3.29e+03 |
+| rooms             | []       |
+| tcount            | 5.73e+04 |
+| time_elapsed      | 302      |
+| tps               | 207      |
+| vpredextmean      | 0.652    |
+| vpredextstd       | 0.196    |
+| vpredintmean      | 0.000429 |
+| vpredintstd       | 0.000645 |
+--------------------------------
+we do the update
+[[2702. 4251. 1005.    6.    4.    7.]
+ [5266. 4301.  884.   28.   20.   11.]
+ [3422. 4972. 3962. 2640.  183.  153.]
+ [1105. 1091. 1296. 3154.  195.  128.]
+ [ 649.  405.  780. 3571.  205.    0.]
+ [ 660.  549.  314. 3570. 3479. 3392.]]
+58360.0
+--------------------------------
+| advmean           | -0.00268 |
+| advstd            | 0.036    |
+| best_ret          | 1        |
+| epcount           | 7.04e+03 |
+| eplen             | 9.92     |
+| eprew             | 0.99     |
+| ev_ext            | 0.992    |
+| ev_int            | -1       |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 57       |
+| opt_approxkl      | 0.00799  |
+| opt_auxloss       | 1.29e-07 |
+| opt_clipfrac      | 0.117    |
+| opt_ent           | 0.104    |
+| opt_featvar       | 0.104    |
+| opt_gradnorm      | 0.0183   |
+| opt_maxfeat       | 1.85     |
+| opt_maxkl         | 0.333    |
+| opt_pg            | 0.00109  |
+| opt_tot           | 0.000992 |
+| opt_vf            | 7.23e-06 |
+| reset_counter     | 0        |
+| retextmean        | 0.652    |
+| retextstd         | 0.196    |
+| retintmean        | 0.000176 |
+| retintstd         | 0.000215 |
+| rewintmax_norm    | 4.87e-07 |
+| rewintmax_unnorm  | 7.21e-07 |
+| rewintmean_norm   | 8.86e-08 |
+| rewintmean_unnorm | 1.31e-07 |
+| rewintstd_unnorm  | 2.16e-07 |
+| rewtotal          | 3.39e+03 |
+| rooms             | []       |
+| tcount            | 5.83e+04 |
+| time_elapsed      | 307      |
+| tps               | 203      |
+| vpredextmean      | 0.653    |
+| vpredextstd       | 0.194    |
+| vpredintmean      | 0.000185 |
+| vpredintstd       | 0.000847 |
+--------------------------------
+we do the update
+[[2702. 4317. 1005.    6.    4.    7.]
+ [5302. 4374.  884.   28.   20.   11.]
+ [3453. 5075. 4065. 2735.  183.  153.]
+ [1106. 1091. 1304. 3253.  195.  128.]
+ [ 650.  406.  784. 3673.  205.    0.]
+ [ 660.  549.  314. 3670. 3579. 3493.]]
+59384.0
+--------------------------------
+| advmean           | 0.00324  |
+| advstd            | 0.00827  |
+| best_ret          | 1        |
+| epcount           | 7.15e+03 |
+| eplen             | 10       |
+| eprew             | 1        |
+| ev_ext            | 1        |
+| ev_int            | -1       |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 58       |
+| opt_approxkl      | 0.000363 |
+| opt_auxloss       | 1.34e-07 |
+| opt_clipfrac      | 0.00781  |
+| opt_ent           | 0.124    |
+| opt_featvar       | 0.104    |
+| opt_gradnorm      | 0.00978  |
+| opt_maxfeat       | 1.85     |
+| opt_maxkl         | 0.0296   |
+| opt_pg            | -0.00299 |
+| opt_tot           | -0.00312 |
+| opt_vf            | 1.54e-06 |
+| reset_counter     | 0        |
+| retextmean        | 0.65     |
+| retextstd         | 0.194    |
+| retintmean        | 0.000599 |
+| retintstd         | 8.65e-05 |
+| rewintmax_norm    | 5.19e-05 |
+| rewintmax_unnorm  | 7.63e-05 |
+| rewintmean_norm   | 2.29e-07 |
+| rewintmean_unnorm | 3.37e-07 |
+| rewintstd_unnorm  | 3.38e-06 |
+| rewtotal          | 3.49e+03 |
+| rooms             | []       |
+| tcount            | 5.93e+04 |
+| time_elapsed      | 312      |
+| tps               | 204      |
+| vpredextmean      | 0.648    |
+| vpredextstd       | 0.197    |
+| vpredintmean      | 0.000676 |
+| vpredintstd       | 0.00069  |
+--------------------------------
+we do the update
+[[2702. 4391. 1005.    6.    4.    7.]
+ [5332. 4461.  884.   28.   20.   11.]
+ [3470. 5178. 4167. 2823.  183.  153.]
+ [1107. 1091. 1317. 3348.  195.  128.]
+ [ 651.  407.  789. 3773.  205.    0.]
+ [ 660.  549.  314. 3771. 3681. 3597.]]
+60408.0
+---------------------------------
+| advmean           | -0.000276 |
+| advstd            | 0.00607   |
+| best_ret          | 1         |
+| epcount           | 7.25e+03  |
+| eplen             | 10        |
+| eprew             | 1         |
+| ev_ext            | 1         |
+| ev_int            | -1        |
+| mem_available     | 2.2e+09   |
+| n_rooms           | 0         |
+| n_updates         | 59        |
+| opt_approxkl      | 0.000675  |
+| opt_auxloss       | 1.34e-07  |
+| opt_clipfrac      | 0.0625    |
+| opt_ent           | 0.126     |
+| opt_featvar       | 0.102     |
+| opt_gradnorm      | 0.00429   |
+| opt_maxfeat       | 1.85      |
+| opt_maxkl         | 0.00909   |
+| opt_pg            | 0.000582  |
+| opt_tot           | 0.000457  |
+| opt_vf            | 5.97e-07  |
+| reset_counter     | 0         |
+| retextmean        | 0.649     |
+| retextstd         | 0.195     |
+| retintmean        | 0.000211  |
+| retintstd         | 0.000189  |
+| rewintmax_norm    | 5.07e-05  |
+| rewintmax_unnorm  | 7.4e-05   |
+| rewintmean_norm   | 2.18e-07  |
+| rewintmean_unnorm | 3.18e-07  |
+| rewintstd_unnorm  | 3.27e-06  |
+| rewtotal          | 3.6e+03   |
+| rooms             | []        |
+| tcount            | 6.04e+04  |
+| time_elapsed      | 317       |
+| tps               | 205       |
+| vpredextmean      | 0.649     |
+| vpredextstd       | 0.196     |
+| vpredintmean      | 0.000283  |
+| vpredintstd       | 0.000641  |
+---------------------------------
+we do the update
+[[2702. 4460. 1005.    6.    4.    7.]
+ [5367. 4535.  884.   28.   20.   11.]
+ [3499. 5280. 4267. 2918.  183.  153.]
+ [1107. 1091. 1322. 3448.  195.  128.]
+ [ 651.  407.  790. 3875.  205.    0.]
+ [ 660.  549.  314. 3875. 3785. 3701.]]
+61432.0
+---------------------------------
+| advmean           | -0.000666 |
+| advstd            | 0.0019    |
+| best_ret          | 1         |
+| epcount           | 7.35e+03  |
+| eplen             | 10        |
+| eprew             | 1         |
+| ev_ext            | 1         |
+| ev_int            | -1        |
+| mem_available     | 2.2e+09   |
+| n_rooms           | 0         |
+| n_updates         | 60        |
+| opt_approxkl      | 7.57e-05  |
+| opt_auxloss       | 1.33e-07  |
+| opt_clipfrac      | 0.00391   |
+| opt_ent           | 0.128     |
+| opt_featvar       | 0.101     |
+| opt_gradnorm      | 0.00124   |
+| opt_maxfeat       | 1.85      |
+| opt_maxkl         | 0.00992   |
+| opt_pg            | 0.000597  |
+| opt_tot           | 0.000469  |
+| opt_vf            | 2.97e-07  |
+| reset_counter     | 0         |
+| retextmean        | 0.651     |
+| retextstd         | 0.196     |
+| retintmean        | 0.000255  |
+| retintstd         | 8.51e-05  |
+| rewintmax_norm    | 2e-06     |
+| rewintmax_unnorm  | 2.9e-06   |
+| rewintmean_norm   | 9.09e-08  |
+| rewintmean_unnorm | 1.32e-07  |
+| rewintstd_unnorm  | 2.24e-07  |
+| rewtotal          | 3.7e+03   |
+| rooms             | []        |
+| tcount            | 6.14e+04  |
+| time_elapsed      | 323       |
+| tps               | 192       |
+| vpredextmean      | 0.652     |
+| vpredextstd       | 0.196     |
+| vpredintmean      | 0.000332  |
+| vpredintstd       | 0.000574  |
+---------------------------------
+we do the update
+[[2702. 4528. 1005.    6.    4.    7.]
+ [5401. 4608.  884.   28.   20.   11.]
+ [3526. 5380. 4368. 3003.  183.  153.]
+ [1107. 1091. 1339. 3551.  195.  128.]
+ [ 651.  407.  791. 3979.  205.    0.]
+ [ 660.  549.  314. 3979. 3889. 3804.]]
+62456.0
+---------------------------------
+| advmean           | 0.000273  |
+| advstd            | 0.00214   |
+| best_ret          | 1         |
+| epcount           | 7.46e+03  |
+| eplen             | 10        |
+| eprew             | 1         |
+| ev_ext            | 1         |
+| ev_int            | -1        |
+| mem_available     | 2.2e+09   |
+| n_rooms           | 0         |
+| n_updates         | 61        |
+| opt_approxkl      | 5.39e-05  |
+| opt_auxloss       | 1.18e-07  |
+| opt_clipfrac      | 0         |
+| opt_ent           | 0.139     |
+| opt_featvar       | 0.103     |
+| opt_gradnorm      | 0.00206   |
+| opt_maxfeat       | 1.85      |
+| opt_maxkl         | 0.00181   |
+| opt_pg            | -0.000397 |
+| opt_tot           | -0.000536 |
+| opt_vf            | 5.59e-07  |
+| reset_counter     | 0         |
+| retextmean        | 0.653     |
+| retextstd         | 0.196     |
+| retintmean        | 0.000266  |
+| retintstd         | 0.000203  |
+| rewintmax_norm    | 2.1e-06   |
+| rewintmax_unnorm  | 3.03e-06  |
+| rewintmean_norm   | 8.53e-08  |
+| rewintmean_unnorm | 1.23e-07  |
+| rewintstd_unnorm  | 2.07e-07  |
+| rewtotal          | 3.8e+03   |
+| rooms             | []        |
+| tcount            | 6.24e+04  |
+| time_elapsed      | 328       |
+| tps               | 198       |
+| vpredextmean      | 0.653     |
+| vpredextstd       | 0.196     |
+| vpredintmean      | 0.000268  |
+| vpredintstd       | 0.000612  |
+---------------------------------
+we do the update
+[[2702. 4590. 1005.    6.    4.    7.]
+ [5439. 4682.  884.   28.   20.   11.]
+ [3553. 5480. 4470. 3092.  183.  153.]
+ [1109. 1091. 1352. 3650.  195.  128.]
+ [ 653.  409.  796. 4083.  205.    0.]
+ [ 660.  549.  314. 4082. 3991. 3904.]]
+63480.0
+---------------------------------
+| advmean           | 0.000277  |
+| advstd            | 0.00694   |
+| best_ret          | 1         |
+| epcount           | 7.56e+03  |
+| eplen             | 10        |
+| eprew             | 1         |
+| ev_ext            | 1         |
+| ev_int            | -1        |
+| mem_available     | 2.2e+09   |
+| n_rooms           | 0         |
+| n_updates         | 62        |
+| opt_approxkl      | 6.84e-05  |
+| opt_auxloss       | 1.18e-07  |
+| opt_clipfrac      | 0         |
+| opt_ent           | 0.133     |
+| opt_featvar       | 0.103     |
+| opt_gradnorm      | 0.00261   |
+| opt_maxfeat       | 1.85      |
+| opt_maxkl         | 0.00301   |
+| opt_pg            | 2.77e-06  |
+| opt_tot           | -0.000129 |
+| opt_vf            | 4.23e-07  |
+| reset_counter     | 0         |
+| retextmean        | 0.653     |
+| retextstd         | 0.195     |
+| retintmean        | 0.000204  |
+| retintstd         | 9.94e-05  |
+| rewintmax_norm    | 5.24e-05  |
+| rewintmax_unnorm  | 7.5e-05   |
+| rewintmean_norm   | 3.36e-07  |
+| rewintmean_unnorm | 4.81e-07  |
+| rewintstd_unnorm  | 4.72e-06  |
+| rewtotal          | 3.9e+03   |
+| rooms             | []        |
+| tcount            | 6.34e+04  |
+| time_elapsed      | 333       |
+| tps               | 203       |
+| vpredextmean      | 0.653     |
+| vpredextstd       | 0.195     |
+| vpredintmean      | 0.000228  |
+| vpredintstd       | 0.000583  |
+---------------------------------
+we do the update
+[[2702. 4666. 1005.    6.    4.    7.]
+ [5465. 4765.  884.   28.   20.   11.]
+ [3574. 5584. 4574. 3183.  183.  153.]
+ [1109. 1091. 1365. 3748.  195.  128.]
+ [ 653.  409.  801. 4185.  205.    0.]
+ [ 660.  549.  314. 4182. 4091. 4005.]]
+64504.0
+---------------------------------
+| advmean           | -0.000403 |
+| advstd            | 0.0013    |
+| best_ret          | 1         |
+| epcount           | 7.66e+03  |
+| eplen             | 10        |
+| eprew             | 1         |
+| ev_ext            | 1         |
+| ev_int            | -1        |
+| mem_available     | 2.2e+09   |
+| n_rooms           | 0         |
+| n_updates         | 63        |
+| opt_approxkl      | 0.00019   |
+| opt_auxloss       | 1.06e-07  |
+| opt_clipfrac      | 0.0195    |
+| opt_ent           | 0.121     |
+| opt_featvar       | 0.103     |
+| opt_gradnorm      | 0.00429   |
+| opt_maxfeat       | 1.85      |
+| opt_maxkl         | 0.00561   |
+| opt_pg            | 0.000259  |
+| opt_tot           | 0.000139  |
+| opt_vf            | 2.28e-07  |
+| reset_counter     | 0         |
+| retextmean        | 0.65      |
+| retextstd         | 0.194     |
+| retintmean        | 0.000155  |
+| retintstd         | 0.000273  |
+| rewintmax_norm    | 2.25e-06  |
+| rewintmax_unnorm  | 3.19e-06  |
+| rewintmean_norm   | 7.47e-08  |
+| rewintmean_unnorm | 1.06e-07  |
+| rewintstd_unnorm  | 2.57e-07  |
+| rewtotal          | 4.00e+03  |
+| rooms             | []        |
+| tcount            | 6.44e+04  |
+| time_elapsed      | 338       |
+| tps               | 203       |
+| vpredextmean      | 0.65      |
+| vpredextstd       | 0.194     |
+| vpredintmean      | 0.000222  |
+| vpredintstd       | 0.000473  |
+---------------------------------
+we do the update
+[[2702. 4729. 1005.    6.    4.    7.]
+ [5507. 4845.  885.   28.   20.   11.]
+ [3599. 5688. 4676. 3267.  183.  153.]
+ [1109. 1091. 1382. 3837.  195.  128.]
+ [ 653.  409.  811. 4285.  205.    0.]
+ [ 660.  549.  314. 4283. 4193. 4109.]]
+65528.0
+---------------------------------
+| advmean           | -0.00245  |
+| advstd            | 0.0449    |
+| best_ret          | 1         |
+| epcount           | 7.76e+03  |
+| eplen             | 9.93      |
+| eprew             | 0.99      |
+| ev_ext            | 0.987     |
+| ev_int            | -1        |
+| mem_available     | 2.2e+09   |
+| n_rooms           | 0         |
+| n_updates         | 64        |
+| opt_approxkl      | 0.0118    |
+| opt_auxloss       | 1.31e-07  |
+| opt_clipfrac      | 0.18      |
+| opt_ent           | 0.166     |
+| opt_featvar       | 0.102     |
+| opt_gradnorm      | 0.0206    |
+| opt_maxfeat       | 1.85      |
+| opt_maxkl         | 0.212     |
+| opt_pg            | -2.68e-05 |
+| opt_tot           | -0.000188 |
+| opt_vf            | 4.39e-06  |
+| reset_counter     | 0         |
+| retextmean        | 0.647     |
+| retextstd         | 0.198     |
+| retintmean        | 0.00022   |
+| retintstd         | 5.66e-05  |
+| rewintmax_norm    | 1.88e-06  |
+| rewintmax_unnorm  | 2.66e-06  |
+| rewintmean_norm   | 8.75e-08  |
+| rewintmean_unnorm | 1.24e-07  |
+| rewintstd_unnorm  | 2.94e-07  |
+| rewtotal          | 4.11e+03  |
+| rooms             | []        |
+| tcount            | 6.55e+04  |
+| time_elapsed      | 343       |
+| tps               | 203       |
+| vpredextmean      | 0.648     |
+| vpredextstd       | 0.196     |
+| vpredintmean      | 0.000248  |
+| vpredintstd       | 0.000511  |
+---------------------------------
+we do the update
+[[2702. 4803. 1005.    6.    4.    7.]
+ [5537. 4927.  885.   28.   20.   11.]
+ [3619. 5789. 4776. 3348.  183.  153.]
+ [1109. 1091. 1402. 3931.  195.  128.]
+ [ 653.  409.  819. 4387.  205.    0.]
+ [ 660.  549.  314. 4387. 4297. 4213.]]
+66552.0
+--------------------------------
+| advmean           | 0.00193  |
+| advstd            | 0.00372  |
+| best_ret          | 1        |
+| epcount           | 7.87e+03 |
+| eplen             | 10       |
+| eprew             | 1        |
+| ev_ext            | 1        |
+| ev_int            | -1       |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 65       |
+| opt_approxkl      | 0.00338  |
+| opt_auxloss       | 9e-08    |
+| opt_clipfrac      | 0.16     |
+| opt_ent           | 0.13     |
+| opt_featvar       | 0.101    |
+| opt_gradnorm      | 0.00714  |
+| opt_maxfeat       | 1.85     |
+| opt_maxkl         | 0.0655   |
+| opt_pg            | -0.00212 |
+| opt_tot           | -0.00225 |
+| opt_vf            | 1.46e-06 |
+| reset_counter     | 0        |
+| retextmean        | 0.652    |
+| retextstd         | 0.196    |
+| retintmean        | 0.000251 |
+| retintstd         | 0.000254 |
+| rewintmax_norm    | 1.19e-06 |
+| rewintmax_unnorm  | 1.66e-06 |
+| rewintmean_norm   | 6.72e-08 |
+| rewintmean_unnorm | 9.44e-08 |
+| rewintstd_unnorm  | 1.85e-07 |
+| rewtotal          | 4.21e+03 |
+| rooms             | []       |
+| tcount            | 6.65e+04 |
+| time_elapsed      | 348      |
+| tps               | 202      |
+| vpredextmean      | 0.651    |
+| vpredextstd       | 0.197    |
+| vpredintmean      | 0.000386 |
+| vpredintstd       | 0.00063  |
+--------------------------------
+we do the update
+[[2702. 4884. 1005.    6.    4.    7.]
+ [5557. 5009.  885.   28.   20.   11.]
+ [3637. 5890. 4878. 3433.  183.  153.]
+ [1109. 1091. 1419. 4029.  195.  128.]
+ [ 653.  409.  825. 4491.  205.    0.]
+ [ 660.  549.  314. 4491. 4401. 4315.]]
+67576.0
+---------------------------------
+| advmean           | 9.9e-05   |
+| advstd            | 0.00256   |
+| best_ret          | 1         |
+| epcount           | 7.97e+03  |
+| eplen             | 10        |
+| eprew             | 1         |
+| ev_ext            | 1         |
+| ev_int            | -1        |
+| mem_available     | 2.2e+09   |
+| n_rooms           | 0         |
+| n_updates         | 66        |
+| opt_approxkl      | 0.000991  |
+| opt_auxloss       | 7.99e-08  |
+| opt_clipfrac      | 0.0469    |
+| opt_ent           | 0.135     |
+| opt_featvar       | 0.101     |
+| opt_gradnorm      | 0.00247   |
+| opt_maxfeat       | 1.85      |
+| opt_maxkl         | 0.0341    |
+| opt_pg            | -4.83e-05 |
+| opt_tot           | -0.000182 |
+| opt_vf            | 7.33e-07  |
+| reset_counter     | 0         |
+| retextmean        | 0.654     |
+| retextstd         | 0.196     |
+| retintmean        | 0.000148  |
+| retintstd         | 0.000253  |
+| rewintmax_norm    | 7.14e-07  |
+| rewintmax_unnorm  | 9.96e-07  |
+| rewintmean_norm   | 5.34e-08  |
+| rewintmean_unnorm | 7.45e-08  |
+| rewintstd_unnorm  | 1.26e-07  |
+| rewtotal          | 4.31e+03  |
+| rooms             | []        |
+| tcount            | 6.75e+04  |
+| time_elapsed      | 353       |
+| tps               | 200       |
+| vpredextmean      | 0.654     |
+| vpredextstd       | 0.196     |
+| vpredintmean      | 0.000117  |
+| vpredintstd       | 0.000531  |
+---------------------------------
+we do the update
+[[2702. 4959. 1005.    6.    4.    7.]
+ [5583. 5089.  885.   28.   20.   11.]
+ [3659. 5992. 4982. 3510.  183.  153.]
+ [1109. 1091. 1446. 4116.  195.  128.]
+ [ 653.  409.  842. 4595.  205.    0.]
+ [ 660.  549.  314. 4593. 4502. 4415.]]
+68600.0
+---------------------------------
+| advmean           | -6.69e-05 |
+| advstd            | 0.00259   |
+| best_ret          | 1         |
+| epcount           | 8.07e+03  |
+| eplen             | 10        |
+| eprew             | 1         |
+| ev_ext            | 1         |
+| ev_int            | -1        |
+| mem_available     | 2.2e+09   |
+| n_rooms           | 0         |
+| n_updates         | 67        |
+| opt_approxkl      | 0.00141   |
+| opt_auxloss       | 9.72e-08  |
+| opt_clipfrac      | 0.0781    |
+| opt_ent           | 0.149     |
+| opt_featvar       | 0.102     |
+| opt_gradnorm      | 0.000797  |
+| opt_maxfeat       | 1.85      |
+| opt_maxkl         | 0.0234    |
+| opt_pg            | 5.77e-05  |
+| opt_tot           | -9e-05    |
+| opt_vf            | 7.47e-07  |
+| reset_counter     | 0         |
+| retextmean        | 0.652     |
+| retextstd         | 0.194     |
+| retintmean        | 7.55e-05  |
+| retintstd         | 0.000121  |
+| rewintmax_norm    | 5.13e-07  |
+| rewintmax_unnorm  | 7.11e-07  |
+| rewintmean_norm   | 6.32e-08  |
+| rewintmean_unnorm | 8.76e-08  |
+| rewintstd_unnorm  | 1.41e-07  |
+| rewtotal          | 4.42e+03  |
+| rooms             | []        |
+| tcount            | 6.85e+04  |
+| time_elapsed      | 358       |
+| tps               | 204       |
+| vpredextmean      | 0.652     |
+| vpredextstd       | 0.194     |
+| vpredintmean      | 6.7e-05   |
+| vpredintstd       | 0.000522  |
+---------------------------------
+we do the update
+[[2702. 5034. 1005.    6.    4.    7.]
+ [5610. 5166.  885.   28.   20.   11.]
+ [3686. 6094. 5084. 3574.  183.  153.]
+ [1111. 1091. 1484. 4201.  196.  128.]
+ [ 655.  411.  859. 4696.  206.    0.]
+ [ 660.  549.  314. 4693. 4602. 4516.]]
+69624.0
+---------------------------------
+| advmean           | -0.00644  |
+| advstd            | 0.0841    |
+| best_ret          | 1         |
+| epcount           | 8.17e+03  |
+| eplen             | 9.98      |
+| eprew             | 0.99      |
+| ev_ext            | 0.956     |
+| ev_int            | -1        |
+| mem_available     | 2.2e+09   |
+| n_rooms           | 0         |
+| n_updates         | 68        |
+| opt_approxkl      | 0.0143    |
+| opt_auxloss       | 9.26e-08  |
+| opt_clipfrac      | 0.133     |
+| opt_ent           | 0.133     |
+| opt_featvar       | 0.102     |
+| opt_gradnorm      | 0.0567    |
+| opt_maxfeat       | 1.85      |
+| opt_maxkl         | 0.422     |
+| opt_pg            | -0.00022  |
+| opt_tot           | -0.000334 |
+| opt_vf            | 1.96e-05  |
+| reset_counter     | 0         |
+| retextmean        | 0.645     |
+| retextstd         | 0.2       |
+| retintmean        | 0.000122  |
+| retintstd         | 0.000111  |
+| rewintmax_norm    | 0.00131   |
+| rewintmax_unnorm  | 0.0018    |
+| rewintmean_norm   | 1.62e-06  |
+| rewintmean_unnorm | 2.24e-06  |
+| rewintstd_unnorm  | 5.65e-05  |
+| rewtotal          | 4.52e+03  |
+| rooms             | []        |
+| tcount            | 6.96e+04  |
+| time_elapsed      | 363       |
+| tps               | 197       |
+| vpredextmean      | 0.649     |
+| vpredextstd       | 0.194     |
+| vpredintmean      | 7.82e-05  |
+| vpredintstd       | 0.000621  |
+---------------------------------
+we do the update
+[[2702. 5105. 1005.    6.    4.    7.]
+ [5643. 5239.  885.   28.   20.   11.]
+ [3717. 6197. 5185. 3667.  183.  153.]
+ [1112. 1091. 1492. 4297.  196.  128.]
+ [ 656.  412.  864. 4796.  206.    0.]
+ [ 660.  549.  314. 4794. 4704. 4620.]]
+70648.0
+--------------------------------
+| advmean           | 0.00898  |
+| advstd            | 0.00753  |
+| best_ret          | 1        |
+| epcount           | 8.28e+03 |
+| eplen             | 10       |
+| eprew             | 1        |
+| ev_ext            | 1        |
+| ev_int            | -1       |
+| mem_available     | 2.2e+09  |
+| n_rooms           | 0        |
+| n_updates         | 69       |
+| opt_approxkl      | 0.00377  |
+| opt_auxloss       | 7.81e-07 |
+| opt_clipfrac      | 0.0234   |
+| opt_ent           | 0.105    |
+| opt_featvar       | 0.0999   |
+| opt_gradnorm      | 0.0205   |
+| opt_maxfeat       | 1.85     |
+| opt_maxkl         | 0.4      |
+| opt_pg            | -0.00945 |
+| opt_tot           | -0.00954 |
+| opt_vf            | 1.39e-05 |
+| reset_counter     | 0        |
+| retextmean        | 0.649    |
+| retextstd         | 0.196    |
+| retintmean        | 0.000501 |
+| retintstd         | 0.000133 |
+| rewintmax_norm    | 5.54e-05 |
+| rewintmax_unnorm  | 7.59e-05 |
+| rewintmean_norm   | 1.97e-07 |
+| rewintmean_unnorm | 2.7e-07  |
+| rewintstd_unnorm  | 3.43e-06 |
+| rewtotal          | 4.62e+03 |
+| rooms             | []       |
+| tcount            | 7.06e+04 |
+| time_elapsed      | 369      |
+| tps               | 201      |
+| vpredextmean      | 0.644    |
+| vpredextstd       | 0.198    |
+| vpredintmean      | 0.000548 |
+| vpredintstd       | 0.000604 |
+--------------------------------
+we do the update
+[[2702. 5180. 1005.    6.    4.    7.]
+ [5672. 5316.  885.   28.   20.   11.]
+ [3742. 6299. 5286. 3764.  183.  153.]
+ [1112. 1091. 1495. 4396.  196.  128.]
+ [ 656.  412.  866. 4898.  206.    0.]
+ [ 660.  549.  314. 4898. 4808. 4724.]]
+71672.0
+---------------------------------
+| advmean           | 0.000132  |
+| advstd            | 0.00384   |
+| best_ret          | 1         |
+| epcount           | 8.38e+03  |
+| eplen             | 10        |
+| eprew             | 1         |
+| ev_ext            | 1         |
+| ev_int            | -1        |
+| mem_available     | 2.2e+09   |
+| n_rooms           | 0         |
+| n_updates         | 70        |
+| opt_approxkl      | 0.000575  |
+| opt_auxloss       | 8.85e-08  |
+| opt_clipfrac      | 0.0625    |
+| opt_ent           | 0.109     |
+| opt_featvar       | 0.0983    |
+| opt_gradnorm      | 0.0054    |
+| opt_maxfeat       | 1.85      |
+| opt_maxkl         | 0.019     |
+| opt_pg            | -0.000312 |
+| opt_tot           | -0.00042  |
+| opt_vf            | 1.55e-06  |
+| reset_counter     | 0         |
+| retextmean        | 0.652     |
+| retextstd         | 0.196     |
+| retintmean        | -0.000113 |
+| retintstd         | 0.00014   |
+| rewintmax_norm    | 4.25e-07  |
+| rewintmax_unnorm  | 5.78e-07  |
+| rewintmean_norm   | 5.37e-08  |
+| rewintmean_unnorm | 7.31e-08  |
+| rewintstd_unnorm  | 1.03e-07  |
+| rewtotal          | 4.72e+03  |
+| rooms             | []        |
+| tcount            | 7.16e+04  |
+| time_elapsed      | 374       |
+| tps               | 202       |
+| vpredextmean      | 0.652     |
+| vpredextstd       | 0.198     |
+| vpredintmean      | -0.000184 |
+| vpredintstd       | 0.000675  |
+---------------------------------
+we do the update
+[[2702. 5257. 1005.    6.    4.    7.]
+ [5697. 5393.  885.   28.   20.   11.]
+ [3766. 6399. 5387. 3861.  183.  153.]
+ [1112. 1091. 1500. 4497.  196.  128.]
+ [ 656.  412.  869. 5002.  206.    0.]
+ [ 660.  549.  314. 5002. 4912. 4826.]]
+72696.0
+---------------------------------
+| advmean           | -0.00141  |
+| advstd            | 0.00597   |
+| best_ret          | 1         |
+| epcount           | 8.48e+03  |
+| eplen             | 10        |
+| eprew             | 1         |
+| ev_ext            | 1         |
+| ev_int            | -1        |
+| mem_available     | 2.2e+09   |
+| n_rooms           | 0         |
+| n_updates         | 71        |
+| opt_approxkl      | 0.000524  |
+| opt_auxloss       | 7.13e-08  |
+| opt_clipfrac      | 0.0352    |
+| opt_ent           | 0.0936    |
+| opt_featvar       | 0.0992    |
+| opt_gradnorm      | 0.00838   |
+| opt_maxfeat       | 1.85      |
+| opt_maxkl         | 0.0174    |
+| opt_pg            | 0.000984  |
+| opt_tot           | 0.000892  |
+| opt_vf            | 1.22e-06  |
+| reset_counter     | 0         |
+| retextmean        | 0.653     |
+| retextstd         | 0.196     |
+| retintmean        | -0.000129 |
+| retintstd         | 0.00011   |
+| rewintmax_norm    | 3.34e-05  |
+| rewintmax_unnorm  | 4.52e-05  |
+| rewintmean_norm   | 8.53e-08  |
+| rewintmean_unnorm | 1.16e-07  |
+| rewintstd_unnorm  | 1.41e-06  |
+| rewtotal          | 4.83e+03  |
+| rooms             | []        |
+| tcount            | 7.27e+04  |
+| time_elapsed      | 379       |
+| tps               | 196       |
+| vpredextmean      | 0.654     |
+| vpredextstd       | 0.195     |
+| vpredintmean      | -0.000159 |
+| vpredintstd       | 0.000509  |
+---------------------------------
+we do the update
+[[2702. 5328. 1005.    6.    4.    7.]
+ [5726. 5468.  885.   28.   20.   11.]
+ [3792. 6498. 5488. 3959.  183.  153.]
+ [1115. 1091. 1503. 4598.  196.  128.]
+ [ 659.  415.  872. 5106.  206.    0.]
+ [ 660.  549.  314. 5104. 5014. 4927.]]
+73720.0
+---------------------------------
+| advmean           | 0.00115   |
+| advstd            | 0.00836   |
+| best_ret          | 1         |
+| epcount           | 8.58e+03  |
+| eplen             | 10        |
+| eprew             | 1         |
+| ev_ext            | 1         |
+| ev_int            | -1        |
+| mem_available     | 2.2e+09   |
+| n_rooms           | 0         |
+| n_updates         | 72        |
+| opt_approxkl      | 1.81e-05  |
+| opt_auxloss       | 6.31e-08  |
+| opt_clipfrac      | 0         |
+| opt_ent           | 0.0788    |
+| opt_featvar       | 0.0991    |
+| opt_gradnorm      | 0.00667   |
+| opt_maxfeat       | 1.64      |
+| opt_maxkl         | 0.000672  |
+| opt_pg            | -0.000371 |
+| opt_tot           | -0.00045  |
+| opt_vf            | 2.28e-07  |
+| reset_counter     | 0         |
+| retextmean        | 0.652     |
+| retextstd         | 0.195     |
+| retintmean        | -1.38e-05 |
+| retintstd         | 6.49e-05  |
+| rewintmax_norm    | 5.48e-05  |
+| rewintmax_unnorm  | 7.37e-05  |
+| rewintmean_norm   | 4.12e-07  |
+| rewintmean_unnorm | 5.54e-07  |
+| rewintstd_unnorm  | 5.51e-06  |
+| rewtotal          | 4.93e+03  |
+| rooms             | []        |
+| tcount            | 7.37e+04  |
+| time_elapsed      | 384       |
+| tps               | 197       |
+| vpredextmean      | 0.652     |
+| vpredextstd       | 0.194     |
+| vpredintmean      | -1.76e-05 |
+| vpredintstd       | 0.0005    |
+---------------------------------
+we do the update
+[[2702. 5396. 1005.    6.    4.    7.]
+ [5760. 5542.  885.   28.   20.   11.]
+ [3822. 6601. 5591. 4055.  183.  153.]
+ [1116. 1091. 1510. 4695.  196.  128.]
+ [ 660.  416.  877. 5208.  206.    0.]
+ [ 660.  549.  314. 5205. 5114. 5028.]]
+74744.0
+---------------------------------
+| advmean           | -0.000138 |
+| advstd            | 0.00513   |
+| best_ret          | 1         |
+| epcount           | 8.68e+03  |
+| eplen             | 10        |
+| eprew             | 1         |
+| ev_ext            | 1         |
+| ev_int            | -1        |
+| mem_available     | 2.2e+09   |
+| n_rooms           | 0         |
+| n_updates         | 73        |
+| opt_approxkl      | 2.53e-05  |
+| opt_auxloss       | 7.39e-08  |
+| opt_clipfrac      | 0         |
+| opt_ent           | 0.0984    |
+| opt_featvar       | 0.099     |
+| opt_gradnorm      | 0.00586   |
+| opt_maxfeat       | 1.85      |
+| opt_maxkl         | 0.00118   |
+| opt_pg            | 0.000281  |
+| opt_tot           | 0.000183  |
+| opt_vf            | 6.96e-07  |
+| reset_counter     | 0         |
+| retextmean        | 0.65      |
+| retextstd         | 0.194     |
+| retintmean        | -4.69e-05 |
+| retintstd         | 6.6e-05   |
+| rewintmax_norm    | 5.15e-05  |
+| rewintmax_unnorm  | 6.89e-05  |
+| rewintmean_norm   | 1.76e-07  |
+| rewintmean_unnorm | 2.36e-07  |
+| rewintstd_unnorm  | 3.04e-06  |
+| rewtotal          | 5.03e+03  |
+| rooms             | []        |
+| tcount            | 7.47e+04  |
+| time_elapsed      | 389       |
+| tps               | 202       |
+| vpredextmean      | 0.65      |
+| vpredextstd       | 0.194     |
+| vpredintmean      | -6.35e-05 |
+| vpredintstd       | 0.00048   |
+---------------------------------
+we do the update
+[[2702. 5471. 1005.    6.    4.    7.]
+ [5789. 5624.  885.   28.   20.   11.]
+ [3844. 6705. 5693. 4154.  183.  153.]
+ [1116. 1091. 1513. 4793.  196.  128.]
+ [ 660.  416.  880. 5308.  206.    0.]
+ [ 660.  549.  314. 5306. 5216. 5132.]]
+75768.0
+---------------------------------
+| advmean           | -0.00031  |
+| advstd            | 0.00164   |
+| best_ret          | 1         |
+| epcount           | 8.79e+03  |
+| eplen             | 10        |
+| eprew             | 1         |
+| ev_ext            | 1         |
+| ev_int            | -1        |
+| mem_available     | 2.2e+09   |
+| n_rooms           | 0         |
+| n_updates         | 74        |
+| opt_approxkl      | 0.00076   |
+| opt_auxloss       | 6.8e-08   |
+| opt_clipfrac      | 0.043     |
+| opt_ent           | 0.0996    |
+| opt_featvar       | 0.0973    |
+| opt_gradnorm      | 0.00158   |
+| opt_maxfeat       | 1.85      |
+| opt_maxkl         | 0.0327    |
+| opt_pg            | 0.000253  |
+| opt_tot           | 0.000154  |
+| opt_vf            | 4.96e-07  |
+| reset_counter     | 0         |
+| retextmean        | 0.649     |
+| retextstd         | 0.195     |
+| retintmean        | -4.6e-05  |
+| retintstd         | 6.13e-05  |
+| rewintmax_norm    | 4.56e-07  |
+| rewintmax_unnorm  | 6.06e-07  |
+| rewintmean_norm   | 4.72e-08  |
+| rewintmean_unnorm | 6.28e-08  |
+| rewintstd_unnorm  | 8.64e-08  |
+| rewtotal          | 5.13e+03  |
+| rooms             | []        |
+| tcount            | 7.57e+04  |
+| time_elapsed      | 394       |
+| tps               | 201       |
+| vpredextmean      | 0.649     |
+| vpredextstd       | 0.195     |
+| vpredintmean      | -6.14e-05 |
+| vpredintstd       | 0.000424  |
+---------------------------------
+we do the update
+[[2702. 5545. 1005.    6.    4.    7.]
+ [5819. 5700.  885.   28.   20.   11.]
+ [3870. 6806. 5793. 4249.  183.  153.]
+ [1117. 1091. 1517. 4891.  196.  128.]
+ [ 661.  417.  883. 5410.  206.    0.]
+ [ 660.  549.  314. 5410. 5320. 5236.]]
+76792.0
+---------------------------------
+| advmean           | 0.000177  |
+| advstd            | 0.00466   |
+| best_ret          | 1         |
+| epcount           | 8.89e+03  |
+| eplen             | 10        |
+| eprew             | 1         |
+| ev_ext            | 1         |
+| ev_int            | -1        |
+| mem_available     | 2.2e+09   |
+| n_rooms           | 0         |
+| n_updates         | 75        |
+| opt_approxkl      | 0.000219  |
+| opt_auxloss       | 6.31e-08  |
+| opt_clipfrac      | 0         |
+| opt_ent           | 0.102     |
+| opt_featvar       | 0.0955    |
+| opt_gradnorm      | 0.00168   |
+| opt_maxfeat       | 1.62      |
+| opt_maxkl         | 0.00423   |
+| opt_pg            | 0.000101  |
+| opt_tot           | -1.04e-06 |
+| opt_vf            | 2.65e-07  |
+| reset_counter     | 0         |
+| retextmean        | 0.652     |
+| retextstd         | 0.196     |
+| retintmean        | -1.72e-05 |
+| retintstd         | 5.58e-05  |
+| rewintmax_norm    | 4.88e-05  |
+| rewintmax_unnorm  | 6.45e-05  |
+| rewintmean_norm   | 1.62e-07  |
+| rewintmean_unnorm | 2.14e-07  |
+| rewintstd_unnorm  | 2.82e-06  |
+| rewtotal          | 5.24e+03  |
+| rooms             | []        |
+| tcount            | 7.68e+04  |
+| time_elapsed      | 399       |
+| tps               | 195       |
+| vpredextmean      | 0.651     |
+| vpredextstd       | 0.196     |
+| vpredintmean      | -2.65e-05 |
+| vpredintstd       | 0.000403  |
+---------------------------------
+we do the update
+[[2703. 5617. 1005.    6.    4.    7.]
+ [5849. 5774.  885.   28.   20.   11.]
+ [3896. 6905. 5893. 4345.  183.  153.]
+ [1118. 1091. 1522. 4990.  196.  128.]
+ [ 662.  418.  888. 5514.  206.    0.]
+ [ 660.  549.  314. 5514. 5424. 5338.]]
+77816.0
